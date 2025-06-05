@@ -9,7 +9,8 @@
 
 ---
 
-## <a name="russian"> </a>🇷🇺 
+<a name="russian"></a>
+<img src="https://em-content.zobj.net/thumbs/240/twitter/322/flag-russia_1f1f7-1f1fa.png" alt="Русский" width="28" style="vertical-align:middle;">
 <details open>
 
 
