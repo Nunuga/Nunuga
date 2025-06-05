@@ -1,5 +1,5 @@
 <a name="top"></a>
-table width="100%">
+<table width="100%">
   <tr>
     <td align="center" width="60%">
       <!-- Языковые бейджи -->
