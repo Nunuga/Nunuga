@@ -77,26 +77,14 @@
     <img src="assets/pro_l.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <!-- Левая колонка: изображение -->
-    <td align="center" width="30%" style="vertical-align: middle;">
-      <picture>
-        <source srcset="assets/alpa_l.svg" media="(prefers-color-scheme: dark)">
-        <img src="assets/lpa_l.svg" alt="О себе в двух словах" style="width:85%; max-width:340px; min-width:120px; border-radius:16px;">
-      </picture>
-    </td>
-    <!-- Правая колонка: текст -->
-    <td align="left" width="70%" style="vertical-align: middle;">
-      <ul>
-        <li><b>7 лет</b> опыта в digital для госсектора</li>
-        <li><b>Эксперт:</b> управление командами, аналитика, автоматизация</li>
-        <li>Люблю строить и внедрять новые решения</li>
-        <li><i>Сделаю больше с меньшими ресурсами!</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="assets/lpa_l.svg" alt="О себе в двух словах" height="180" align="left" style="margin-right: 36px; border-radius:16px;">
+  <br>
+  <b>7 лет</b> опыта в digital для госсектора<br>
+  <b>Эксперт:</b> управление командами, аналитика, автоматизация<br>
+  Люблю строить и внедрять новые решения<br>
+  <i>Сделаю больше с меньшими ресурсами!</i>
+</p>
 
 <br><br>
 <p align="center" width="100%">
