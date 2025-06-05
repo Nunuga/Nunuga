@@ -17,15 +17,15 @@
 <p align="center">
   <picture>
     <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/pro_l.svg" width="150" alt="My Icon">
+    <img src="assets/pro_l.svg" width="200" alt="My Icon">
   </picture>
   <picture>
     <source srcset="assets/mai_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/mai_l.svg" width="150" alt="My Icon">
+    <img src="assets/mai_l.svg" width="200" alt="My Icon">
   </picture>
   <picture>
     <source srcset="assets/tel_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/tel_l.svg" width="150" alt="My Icon">
+    <img src="assets/tel_l.svg" width="200" alt="My Icon">
   </picture>
 </p>
 <br><br>
