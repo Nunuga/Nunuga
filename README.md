@@ -35,8 +35,8 @@
 
 
 <div align="center">
-<br><br>
-<p align="center">
+
+<!-- <p align="center">
   <picture>
     <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/pro_l.svg" width="200" alt="My Icon">
@@ -49,8 +49,8 @@
     <source srcset="assets/tel_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/tel_l.svg" width="200" alt="My Icon">
   </picture>
-</p>
-<br><br>
+</p> -->
+
 <h2>Здравствуйте, я Ковтун Кирилл!</h2>
 <b>Руководитель проектов | Руководитель управления IT-аналитики</b>
 <br>г. Москва
