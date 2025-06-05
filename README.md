@@ -38,7 +38,7 @@
   
 <p align="center" width="100%">
   <picture>
-    <source srcset="assets/navi_t.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/nav_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
