@@ -89,36 +89,29 @@
 
 <table align="center">
   <tr>
-    <th align="center">
-      <p align="center" width="100%">
-  <picture>
-    <source srcset="assets/navi_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-    </th>
-    <th align="center">🎯 Роль</th>
-    <th align="center">🌟 Достижения</th>
+    <th align="center">Роль</th>
+    <th align="center">Проекты</th>
+    <th align="center">Достижения</th>
   </tr>
   <tr>
-    <td><b>🚦 АИС для межблокового взаимодействия ФОИВ РФ</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00c853?style=for-the-badge&labelColor=00c853&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
+    <td><b>🚦 АИС для межблокового взаимодействия ФОИВ РФ</b></td>
     <td>
       Руководство командой<br>
       Проектирование и запуск<br>
       Backend/frontend, UX/UI<br>
       <a href="https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html">
-  <img src="https://img.shields.io/badge/Патент_RU2024663474-blue?style=for-the-badge" alt="Патент RU2024663474"/>
-</a>
+        <img src="https://img.shields.io/badge/Патент_RU2024663474-blue?style=for-the-badge" alt="Патент RU2024663474"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td><b>🏗️ АИС для Минстроя России (8+ модулей)</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00b8d4?style=for-the-badge&labelColor=00b8d4&logo=codefactor&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
+    <td><b>🏗️ АИС для Минстроя России (8+ модулей)</b></td>
     <td>
       5000+ пользователей<br>
       Интеграция<br>
@@ -129,10 +122,10 @@
     </td>
   </tr>
   <tr>
-    <td><b>📊 Аналитические дашборды, Telegram-боты</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-ff9800?style=for-the-badge&labelColor=ff9800&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
     </td>
+    <td><b>📊 Аналитические дашборды, Telegram-боты</b></td>
     <td>
       Power BI<br>
       Google Script<br>
@@ -141,10 +134,10 @@
     </td>
   </tr>
   <tr>
-    <td><b>🌐 Цифровая инфраструктура для МинЖКХ МО</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/ЗАМ.%20НАЧАЛЬНИКА%20ОТДЕЛА-1976d2?style=for-the-badge&labelColor=1976d2&logo=googlechrome&logoColor=white" alt="Зам. начальника отдела"/>
     </td>
+    <td><b>🌐 Цифровая инфраструктура для МинЖКХ МО</b></td>
     <td>
       Google Apps Script<br>
       Внедрение, аналитика<br>
@@ -152,10 +145,10 @@
     </td>
   </tr>
   <tr>
-    <td><b>🎤 Организация массовых мероприятий</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/ГЛАВНЫЙ%20СПЕЦИАЛИСТ-d32f2f?style=for-the-badge&labelColor=d32f2f&logo=eventbrite&logoColor=white" alt="Главный специалист"/>
     </td>
+    <td><b>🎤 Организация массовых мероприятий</b></td>
     <td>
       До 150 000 участников<br>
       Поддержка МСП<br>
