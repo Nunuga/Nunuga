@@ -14,24 +14,18 @@
 <details open>
 <summary><b>Показать / скрыть описание на русском</b></summary>
 
-<div align="center">
-
 <p align="center">
   <picture>
-    <source srcset="assets/p1.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/p1l.svg" width="120" alt="Project Manager">
+    <source srcset="assets/v1-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/v1-light.svg" width="180" height="40" alt="Project Manager" style="margin-right: 8px;"/>
   </picture>
-</p>
-<p align="center">
   <picture>
-    <source srcset="assets/m1.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/m1l.svg" width="120" alt="Project Manager">
+    <source srcset="assets/v2-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/v2-light.svg" width="180" height="40" alt="Moscow" style="margin-right: 8px;"/>
   </picture>
-</p>
-<p align="center">
   <picture>
-    <source srcset="assets/t1.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/t1l.svg" width="120" alt="Project Manager">
+    <source srcset="assets/v3-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/v3-light.svg" width="180" height="40" alt="Contact" style="margin-right: 8px;"/>
   </picture>
 </p>
 <br><br>
