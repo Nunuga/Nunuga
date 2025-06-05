@@ -180,7 +180,7 @@
 </details>
 <p align="center">
   <a href="#readme">
-    <img src="assets/vv.svg" width="32" alt="Наверх"/><br>
+    <img src="assets/vv.svg" width="150" alt="Наверх"/><br>
     
   </a>
 </p>
