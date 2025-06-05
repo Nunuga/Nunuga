@@ -122,7 +122,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="end">
       <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-ff9800?style=for-the-badge&labelColor=ff9800&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
     </td>
     <td><b>📊 Аналитические дашборды, Telegram-боты</b></td>
