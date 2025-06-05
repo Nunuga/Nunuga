@@ -78,7 +78,7 @@
   </picture>
 </p>
 <p align="left">
-  <img src="assets/alpak_l.svg" alt="О себе в двух словах" width="80%" height="100" align="left" style="margin-right: 36px; border-radius:16px;">
+  <img src="assets/alpak_l.svg" alt="О себе в двух словах" width="30%" height="200" align="left" style="margin-right: 36px; border-radius:16px;">
   <br>
   <b>- 7 лет</b> опыта в digital для госсектора<br>
   <b>- Эксперт:</b> управление командами, аналитика, автоматизация<br>
