@@ -16,9 +16,24 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Project_Manager-💼-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/Moscow-🏙️-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Contact-📧_kirikov_08@mail.ru-red?style=for-the-badge&logo=gmail">
+<p align="center">
+  <picture>
+    <source srcset="assets/p1.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/p1l.svg" width="220" alt="Project Manager">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source srcset="assets/m1.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/m1l.svg" width="220" alt="Project Manager">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source srcset="assets/t1.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/t1l.svg" width="220" alt="Project Manager">
+  </picture>
+</p>
 <br><br>
 <h2>Здравствуйте, я Ковтун Кирилл!</h2>
 <b>Руководитель проектов | Руководитель управления IT-аналитики</b>
