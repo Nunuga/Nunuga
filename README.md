@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#russian">
-    <img src="https://img.shields.io/badge/🇷🇺-Русский-blue?style=for-the-badge" alt="Русский"/>
+    <img src="https://img.shields.io/badge/🇷🇺-Русский-4f46e5?style=for-the-badge" alt="Русский"/>
   </a>
   <a href="#english">
-    <img src="https://img.shields.io/badge/🇬🇧-English-green?style=for-the-badge" alt="English"/>
+    <img src="https://img.shields.io/badge/🇬🇧-English-9333ea?style=for-the-badge" alt="English"/>
   </a>
 </p>
 
