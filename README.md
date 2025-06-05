@@ -195,12 +195,13 @@
   - 🚀 Люблю создавать и внедрять новые решения
 </details>
 <p align="end">
-  <picture>
-    <source srcset="assets/Vver_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/v1l.svg" width="50" alt="My Icon">
-  </picture>
+  <a href="#readme">
+    <picture>
+      <source srcset="assets/Vver_t.svg" media="(prefers-color-scheme: dark)">
+      <img src="assets/v1l.svg" width="50" alt="Наверх">
+    </picture>
+  </a>
 </p>
-
 </details>
 
 ---
