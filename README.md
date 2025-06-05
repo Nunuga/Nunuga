@@ -9,10 +9,10 @@
 
 ---
 
-## <a name="russian"></a>🇷🇺 Русский
+## <a name="russian"></a>🇷🇺 <details open>
 
-<details open>
-<summary><b>Показать / скрыть описание на русском</b></summary>
+
+<!-- <summary><b>Показать / скрыть описание на русском</b></summary> -->
 <div align="center">
 <br><br>
 <p align="center">
