@@ -77,15 +77,17 @@
     <img src="assets/pro_l.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
-<table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <!-- Левая колонка: изображение -->
     <td align="center" width="40%">
       <picture>
+        <source srcset="assets/profi_t.svg" media="(prefers-color-scheme: dark)">
+        <img src="assets/pro_l.svg" alt="О себе в двух словах" style="width:90%; max-width:340px; min-width:120px; border-radius:16px;">
       </picture>
     </td>
     <!-- Правая колонка: текст -->
-    <td align="left" width="1000%" valign="middle" style="vertical-align:middle;">
+    <td align="left" width="60%" valign="middle" style="vertical-align:middle;">
       <ul>
         <li><b>7 лет</b> опыта в digital для госсектора</li>
         <li><b>Эксперт:</b> управление командами, аналитика, автоматизация</li>
