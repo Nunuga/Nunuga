@@ -87,6 +87,7 @@
 </p>
 
 <br><br>
+<br><br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/kluci_t.svg" media="(prefers-color-scheme: dark)">
