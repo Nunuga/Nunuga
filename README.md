@@ -15,7 +15,7 @@
   <span style="float: right;">
     <picture>
       <source srcset="assets/m_t.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/pro_l.svg" width="20" alt="My Icon">
+      <img src="assets/pro_l.svg" width="100" alt="My Icon">
     </picture>
    
   </span>
