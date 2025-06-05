@@ -154,9 +154,13 @@
   </tr>
 </table>
 
----
-
-### 🏅 Награды
+<br><br>
+<p align="center" width="100%">
+  <picture>
+    <source srcset="assets/nagrad_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
 - Благодарственные письма **Минстроя РФ**
 - Благодарственные письма **МинЖКХ Московской области**
