@@ -197,7 +197,7 @@
 <p align="end">
   <picture>
     <source srcset="assets/Vver_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/v1l.svg" width="120" alt="My Icon">
+    <img src="assets/v1l.svg" width="100" alt="My Icon">
   </picture>
 </p>
 
