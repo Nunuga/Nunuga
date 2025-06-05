@@ -15,7 +15,7 @@
    
   <picture>
     <source srcset="assets/RU_t.svg" media="(prefers-color-scheme: dark)">
-<!--     <img src="assets/pro_l.svg" alt="Навыки и технологии"> -->
+    <img src="assets/pro_l.svg" alt="Навыки и технологии">
   </picture>
 </p>
   </summary>
