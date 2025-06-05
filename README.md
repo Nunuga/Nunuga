@@ -183,20 +183,18 @@
     <span style="
       display:inline-flex;
       align-items:center;
-      background: linear-gradient(90deg, #a259ec 0%, #6a82fb 100%);
-      border-radius: 32px;
-      padding: 0.3em 1.2em 0.3em 0.8em;
-      font-size: 1.2em;
-      color: #fff;
-      font-weight: bold;
-      box-shadow: 0 2px 12px rgba(106,130,251,0.10);
-      transition: box-shadow 0.2s;">
-      <img src="assets/2.svg" alt="Наверх" width="28" style="margin-right:0.7em; filter: drop-shadow(0 0 2px #fff6);"/>
+      border-radius:18px;
+      border: 2px solid #a259ec;
+      background: #faf8ff;
+      padding: 0.25em 1em 0.25em 0.6em;
+      font-size: 1.1em;
+      color: #a259ec;
+      font-weight: 600;">
+      <img src="assets/2.svg" alt="Наверх" width="22" style="margin-right:0.6em;"/>
       Наверх
     </span>
   </a>
 </p>
-
 </details>
 
 ---
