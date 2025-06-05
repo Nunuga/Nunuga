@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <img src="https://img.shields.io/badge/Moscow-🏙️-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Contact-📧_kirikov_08@mail.ru-red?style=for-the-badge&logo=gmail">
 <br><br>
