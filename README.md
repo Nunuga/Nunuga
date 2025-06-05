@@ -1,49 +1,53 @@
-# 👋 Hello! I'm [Your Name]
-## Project Manager | Team Lead | Agile Evangelist
+# 👋 Привет! Я — [Имя Фамилия]
+## Руководитель проектов / Project Manager
 
-### About Me
-- 🏆 5+ years of experience in IT project management
-- 💡 Specializing in digital product development, Agile/Scrum/Kanban frameworks, and cross-functional team leadership
-- 🚀 Focused on achieving business goals, delivering value, and growing strong teams
+### О себе
+- 🏆 5+ лет успешного управления IT‑проектами
+- 💡 Специализация: цифровые продукты, Agile/Scrum/Kanban, запуск новых команд и сервисов
+- 🤝 В фокусе — достижение бизнес‑результатов, прозрачные процессы и развитие команды
 
----
-
-### 🧩 Core Competencies
-- Project management: Agile, Scrum, Kanban, Waterfall
-- Roadmapping, backlog grooming, and sprint planning
-- Team building, mentoring, and leadership
-- Budgeting, scheduling, and risk management
-- Stakeholder communication, requirement analysis, and quality control
-- Project documentation (Jira, Confluence, Trello, Notion)
+### Основные компетенции
+- Управление проектами (Waterfall, Agile, Kanban, Scrum)
+- Построение roadmap и стратегическое планирование
+- Формирование и развитие команды, коучинг
+- Управление бюджетом и сроками, риск‑менеджмент
+- Ведение проектной документации, работа с Jira, Confluence, Trello
+- Взаимодействие с заказчиком, постановка задач, контроль качества
 
 ---
 
-### 🗂️ Key Projects
+## 🗂️ Ключевые проекты
 
-| Project                          | Role                | Tools / Stack             | Description / Achievements                         |
-|-----------------------------------|---------------------|---------------------------|----------------------------------------------------|
-| **E-commerce CRM Platform**       | Project Manager     | Jira, Confluence, Slack   | Led from scratch; increased revenue by 30% in 1 year |
-| **HelpDesk System Implementation**| Scrum Master        | Trello, Agile, Zoom       | Reduced request processing time by 40%             |
-| **Mobile Banking App**            | Project Manager     | Scrum, Figma, Miro        | Launched MVP in 5 months, 100K+ users onboarded    |
+| Проект              | Роль                 | Стек/Инструменты         | Описание/Результаты                          |
+|---------------------|----------------------|--------------------------|----------------------------------------------|
+| **CRM для e-commerce** | Руководитель проекта | Jira, Confluence, Slack  | Запуск с нуля, рост выручки +30% за 1 год    |
+| **Внедрение HelpDesk** | Scrum Master         | Trello, Agile, Zoom      | Сокращение времени обработки заявок на 40%   |
+| **Мобильное приложение для банка** | Project Manager | Scrum, Figma, Miro       | MVP за 5 месяцев, аудитория >100 тыс. пользователей |
 
 ---
 
-### 📜 Certifications & Skills
-- Certified Scrum Master (CSM)
-- Professional Scrum Product Owner (PSPO I)
+### 📌 Навыки и сертификаты
+- Сертифицированный Scrum Master (CSM)
+- Product Owner (PSPO I)
 - Project Management Professional (PMP)
-- Soft skills: communication, facilitation, leadership, critical thinking
+- Soft skills: коммуникация, фасилитация, лидерство, критическое мышление
 
 ---
 
-### 📫 Get in Touch
+### 📫 Контакты
 - [LinkedIn](https://linkedin.com/in/your-profile)
 - Email: your.email@example.com
 
 ---
 
 <details>
-  <summary>✨ My Approach to Project Management</summary>
+  <summary>✨ Немного о принципах работы</summary>
+
+  - Прозрачность и доверие — залог сильной команды
+  - Всегда нацелен на результат и развитие людей
+  - Использую data-driven подход в управлении
+
+</details>
   
   - Transparency and trust are at the heart of every successful team
   - Data-driven decision making
