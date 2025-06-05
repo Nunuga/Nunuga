@@ -90,10 +90,12 @@
 <table align="center">
   <tr>
     <th align="center">
-      <picture>
-    <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/pro_l.svg" width="200" alt="My Icon">
+      <p align="center" width="100%">
+  <picture>
+    <source srcset="assets/navi_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
+</p>
     </th>
     <th align="center">🎯 Роль</th>
     <th align="center">🌟 Достижения</th>
