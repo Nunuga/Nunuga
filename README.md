@@ -2,7 +2,7 @@
 <p align="end">
   <picture>
     <source srcset="assets/m_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/pro_l.svg" width="200" alt="My Icon">
+    <img src="assets/pro_l.svg" width="35" alt="My Icon">
   </picture>
 <!--   <picture>
     <source srcset="assets/mai_t.svg" media="(prefers-color-scheme: dark)">
