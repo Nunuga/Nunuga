@@ -178,13 +178,25 @@
   - 🎯 Фокус на результат и развитие людей  
   - 🚀 Люблю создавать и внедрять новые решения
 </details>
-
 <p align="center">
-  <a href="#readme">
-    <img src="assets/2.svg" width="32" alt="Наверх" style="vertical-align:middle;"/>
-    <span style="font-size:20px; vertical-align:middle; margin-left:8px;">Наверх</span>
+  <a href="#readme" style="text-decoration:none;">
+    <span style="
+      display:inline-flex;
+      align-items:center;
+      background: linear-gradient(90deg, #a259ec 0%, #6a82fb 100%);
+      border-radius: 32px;
+      padding: 0.3em 1.2em 0.3em 0.8em;
+      font-size: 1.2em;
+      color: #fff;
+      font-weight: bold;
+      box-shadow: 0 2px 12px rgba(106,130,251,0.10);
+      transition: box-shadow 0.2s;">
+      <img src="assets/2.svg" alt="Наверх" width="28" style="margin-right:0.7em; filter: drop-shadow(0 0 2px #fff6);"/>
+      Наверх
+    </span>
   </a>
 </p>
+
 </details>
 
 ---
