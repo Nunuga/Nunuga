@@ -73,7 +73,7 @@
 <br><br>
 <p align="center" width="100%">
   <picture>
-    <source srcset="assets/prof_t.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/profi_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/pro_l.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
@@ -86,7 +86,7 @@
 <br><br>
 <p align="center" width="100%">
   <picture>
-    <source srcset="assets/kluc_t.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/kluci_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/pro_l.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
