@@ -89,7 +89,12 @@
 
 <table align="center">
   <tr>
-    <th align="center">🚀 Проект</th>
+    <th align="center">
+      <picture>
+    <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" width="200" alt="My Icon">
+  </picture>
+    </th>
     <th align="center">🎯 Роль</th>
     <th align="center">🌟 Достижения</th>
   </tr>
