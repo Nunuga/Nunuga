@@ -172,9 +172,14 @@
 - Благодарственные письма **Минстроя РФ**
 - Благодарственные письма **МинЖКХ Московской области**
 
----
-
-### 💬 Личные качества
+<br><br>
+  
+<p align="center" width="100%">
+  <picture>
+    <source srcset="assets/lik_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
 > **Организатор** • **Лидер** • _Аналитик_  
 > ⚡ Быстро адаптируюсь • 💪 Стрессоустойчив • 🎯 Планирую наперёд  
