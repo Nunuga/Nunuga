@@ -180,7 +180,7 @@
 </details>
 <p align="center">
   <a href="#">
-    <img src="assets/vv.svg" width="64" alt="Наверх"/><br>
+    <img src="assets/vv.svg" width="100" alt="Наверх"/><br>
   </a>
 </p>
 
