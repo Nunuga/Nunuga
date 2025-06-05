@@ -21,11 +21,11 @@
   </picture>
   <picture>
     <source srcset="assets/m2.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/m2l.svg" width="100" height="40" alt="Moscow" style="margin-right: 8px;"/>
+    <img src="assets/m2l.svg" width="100" height="40" alt="mail" style="margin-right: 8px;"/>
   </picture>
   <picture>
     <source srcset="assets/t3.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/t3l.svg" width="100" height="40" alt="Contact" style="margin-right: 8px;"/>
+    <img src="assets/t3l.svg" width="100" height="40" alt="tele" style="margin-right: 8px;"/>
   </picture>
 </p>
 <br><br>
