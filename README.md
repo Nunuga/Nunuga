@@ -12,10 +12,10 @@
 
 <details open>
 <summary>
-    <p align="center"">
+   
   <picture>
     <source srcset="assets/RU_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+<!--     <img src="assets/pro_l.svg" alt="Навыки и технологии"> -->
   </picture>
 </p>
   </summary>
