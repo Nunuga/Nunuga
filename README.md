@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00c853?style=for-the-badge&labelColor=00c853&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
+      <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=00c853&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
     <td><b>🚦 АИС для межблокового взаимодействия ФОИВ РФ</b></td>
     <td>
@@ -109,7 +109,7 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00b8d4?style=for-the-badge&labelColor=00b8d4&logo=codefactor&logoColor=white" alt="Начальник отдела аналитики"/>
+      <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=00b8d4&logo=codefactor&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
     <td><b>🏗️ АИС для Минстроя России (8+ модулей)</b></td>
     <td>
@@ -123,7 +123,7 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-ff9800?style=for-the-badge&labelColor=ff9800&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
+      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-4f46e5?style=for-the-badge&labelColor=ff9800&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
     </td>
     <td><b>📊 Аналитические дашборды, Telegram-боты</b></td>
     <td>
@@ -142,17 +142,6 @@
       Google Apps Script<br>
       Внедрение, аналитика<br>
       Поддержка пользователей
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/ГЛАВНЫЙ%20СПЕЦИАЛИСТ-d32f2f?style=for-the-badge&labelColor=d32f2f&logo=eventbrite&logoColor=white" alt="Главный специалист"/>
-    </td>
-    <td><b>🎤 Организация массовых мероприятий</b></td>
-    <td>
-      До 150 000 участников<br>
-      Поддержка МСП<br>
-      Аналитика
     </td>
   </tr>
 </table>
