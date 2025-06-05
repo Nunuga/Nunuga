@@ -170,9 +170,10 @@
   - 🚀 Люблю создавать и внедрять новые решения
 </details>
 <p align="center">
-  <a href="#">
-    <img src="assets/vv.svg" width="120" alt="Наверх"/><br>
-  </a>
+  <picture>
+    <source srcset="assets/v1.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/v1l.svg" width="60" alt="My Icon">
+  </picture>
 </p>
 
 </details>
