@@ -1,4 +1,4 @@
-# README
+<a name="top"></a>
 <p align="center">
   <a href="#russian">
     <img src="https://img.shields.io/badge/🇷🇺-Русский-4f46e5?style=for-the-badge" alt="Русский"/>
@@ -197,7 +197,7 @@
 </details>
 <br><br>
 <p align="end">
-  <a href="#readme">
+  <a href="#top">
     <picture>
       <source srcset="assets/Vver_t.svg" media="(prefers-color-scheme: dark)">
       <img src="assets/v1l.svg" width="30" alt="Наверх">
