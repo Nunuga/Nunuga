@@ -194,9 +194,9 @@
   - 🎯 Фокус на результат и развитие людей  
   - 🚀 Люблю создавать и внедрять новые решения
 </details>
-<p align="center">
+<p align="end">
   <picture>
-    <source srcset="assets/v1.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/Vver_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/v1l.svg" width="120" alt="My Icon">
   </picture>
 </p>
