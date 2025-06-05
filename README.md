@@ -172,7 +172,7 @@
 <p align="center">
   <picture>
     <source srcset="assets/v1.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/v1l.svg" width="60" alt="My Icon">
+    <img src="assets/v1l.svg" width="120" alt="My Icon">
   </picture>
 </p>
 
