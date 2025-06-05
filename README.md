@@ -13,7 +13,7 @@
 
 <details open>
 <summary><b>Показать / скрыть описание на русском</b></summary>
-
+---
 <p align="center">
   <picture>
     <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
