@@ -201,15 +201,19 @@
 - Программирование 
 - Спорт
 
----
+<br><br>
+  
+<p align="center" width="100%">
+  <picture>
+    <source srcset="assets/prab_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
-<details>
-  <summary>✨ <b>Принципы работы</b></summary>
+  - Прозрачность и доверие — залог сильной команды  
+  - Фокус на результат и развитие людей  
+  - Люблю создавать и внедрять новые решения
 
-  - 🤝 Прозрачность и доверие — залог сильной команды  
-  - 🎯 Фокус на результат и развитие людей  
-  - 🚀 Люблю создавать и внедрять новые решения
-</details>
 <br><br>
 <p align="end">
   <a href="#top">
