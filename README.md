@@ -181,9 +181,9 @@
 <p align="center">
   <a href="#readme">
     <img src="assets/vv.svg" width="100" alt="Наверх"/><br>
-    
   </a>
 </p>
+
 </details>
 
 ---
