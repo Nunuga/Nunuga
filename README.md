@@ -67,17 +67,63 @@
 
 ---
 
-### 🗂️ Ключевые проекты
+### 🗂️✨ Ключевые проекты
 
-| 🚀 Проект | 🎯 Роль | 🌟 Достижения |
-|----------|---------|--------------|
-| **АИС для межблокового взаимодействия ФОИВ РФ** | Начальник отдела аналитики | Руководство командой, проектирование и запуск, backend/frontend, UX/UI, <br>Патент RU2024663474 |
-| **АИС для Минстроя России (8+ модулей)** | Начальник отдела аналитики | 5000+ пользователей, интеграция, мобильное приложение, <br>Патент RU2024665653 |
-| **Аналитические дашборды, Telegram-боты** | Руководитель проекта | Power BI, Google Script, Telegram API, автоматизация отчётности |
-| **Цифровая инфраструктура для МинЖКХ МО** | Зам. начальника отдела | Google Apps Script, внедрение, аналитика, поддержка пользователей |
-| **Организация массовых мероприятий** | Главный специалист | До 150 000 участников, поддержка МСП, аналитика |
-
-
+<table>
+  <tr>
+    <th align="center">🚀 Проект</th>
+    <th align="center">🎯 Роль</th>
+    <th align="center">🌟 Достижения</th>
+  </tr>
+  <tr>
+    <td><b>🚦 АИС для межблокового взаимодействия ФОИВ РФ</b></td>
+    <td><img src="https://img.shields.io/badge/Начальник отдела аналитики-00c853?style=for-the-badge&logo=apachekafka&logoColor=white"></td>
+    <td>
+      👥 Руководство командой<br>
+      🧩 Проектирование и запуск<br>
+      💻 Backend/frontend, UX/UI<br>
+      📄 Патент <b>RU2024663474</b>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🏗️ АИС для Минстроя России (8+ модулей)</b></td>
+    <td><img src="https://img.shields.io/badge/Начальник отдела аналитики-00b8d4?style=for-the-badge&logo=codefactor&logoColor=white"></td>
+    <td>
+      👤 5000+ пользователей<br>
+      🔗 Интеграция<br>
+      📱 Мобильное приложение<br>
+      📄 Патент <b>RU2024665653</b>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📊 Аналитические дашборды, Telegram-боты</b></td>
+    <td><img src="https://img.shields.io/badge/Руководитель проекта-ff9800?style=for-the-badge&logo=chartdotjs&logoColor=white"></td>
+    <td>
+      📈 Power BI<br>
+      ⚡ Google Script<br>
+      🤖 Telegram API<br>
+      🔄 Автоматизация отчётности
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Цифровая инфраструктура для МинЖКХ МО</b></td>
+    <td><img src="https://img.shields.io/badge/Зам. начальника отдела-1976d2?style=for-the-badge&logo=googlechrome&logoColor=white"></td>
+    <td>
+      📝 Google Apps Script<br>
+      🛠️ Внедрение, аналитика<br>
+      👥 Поддержка пользователей
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎤 Организация массовых мероприятий</b></td>
+    <td><img src="https://img.shields.io/badge/Главный специалист-d32f2f?style=for-the-badge&logo=eventbrite&logoColor=white"></td>
+    <td>
+      👏 До 150 000 участников<br>
+      💼 Поддержка МСП<br>
+      📊 Аналитика
+    </td>
+  </tr>
+</table>
 
 ### 🏅 Награды
 
