@@ -85,7 +85,7 @@
       </picture>
     </td>
     <!-- Правая колонка: текст -->
-    <td align="left" width="60%" valign="middle" style="vertical-align:middle;">
+    <td align="left" width="1000%" valign="middle" style="vertical-align:middle;">
       <ul>
         <li><b>7 лет</b> опыта в digital для госсектора</li>
         <li><b>Эксперт:</b> управление командами, аналитика, автоматизация</li>
