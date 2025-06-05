@@ -1,4 +1,4 @@
-#README
+# README
 <p align="center">
   <a href="#russian">
     <img src="https://img.shields.io/badge/🇷🇺-Русский-4f46e5?style=for-the-badge" alt="Русский"/>
