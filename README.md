@@ -85,7 +85,7 @@
       👥 Руководство командой<br>
       🧩 Проектирование и запуск<br>
       💻 Backend/frontend, UX/UI<br>
-      📄 Патент <b>RU2024663474</b>
+      [![Патент RU2024663474](https://img.shields.io/badge/Патент-RU2024663474-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024663474)
     </td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@
       👤 5000+ пользователей<br>
       🔗 Интеграция<br>
       📱 Мобильное приложение<br>
-      📄 Патент <b>RU2024665653</b>
+      [![Патент RU2024665653](https://img.shields.io/badge/Патент-RU2024665653-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024665653)
     </td>
   </tr>
   <tr>
@@ -258,7 +258,7 @@
       👥 Team management<br>
       🧩 System design and launch<br>
       💻 Backend/frontend, UX/UI<br>
-      📄 Patent <b>RU2024663474</b>
+      [![Patent RU2024663474](https://img.shields.io/badge/Patent-RU2024663474-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024663474)
     </td>
   </tr>
   <tr>
@@ -270,8 +270,7 @@
       👤 5000+ users<br>
       🔗 System integration<br>
       📱 Mobile application<br>
-       [![Patent RU2024665653](https://img.shields.io/badge/Патент-RU2024665653-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024665653)
-</td>
+      [![Patent RU2024665653](https://img.shields.io/badge/Patent-RU2024665653-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024665653)
     </td>
   </tr>
   <tr>
