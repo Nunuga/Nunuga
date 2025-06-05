@@ -135,6 +135,8 @@
   </tr>
 </table>
 
+---
+
 ### 🏅 Награды
 
 - Благодарственные письма Министерства строительства РФ
@@ -179,8 +181,8 @@
 
 ## <a name="english"></a>🇬🇧 English
 
-<details>
-<summary><b>Show / hide English description</b></summary>
+<details open>
+<summary><b>Show / Hide English Description</b></summary>
 
 <h2 align="center">Kovtun Kirill</h2>
 <p align="center">
@@ -221,46 +223,92 @@
 
 ---
 
-### 👤 About Me
+### 🏆 Overview
 
-- 🏛 7 years of experience in developing and implementing digital solutions for government management  
-- 🥇 Awarded by the Ministry of Construction of the Russian Federation and Ministry of Housing and Public Utilities of the Moscow Region  
-- 🧩 Strengths:  
-  - Organizational skills  
-  - Team leadership  
-  - Analytical mindset  
-  - Fast adaptation  
-  - Stress resistance  
-  - Result-driven  
-  - High-level planning  
-- 📍 City: Moscow  
-- ✉️ Email: kirikov_08@mail.ru  
-- ☎️ Phone: +7 985 512 64 46  
+- 🔹 7 years of experience in developing and implementing digital solutions for government agencies  
+- 🥇 Awarded by the Ministry of Construction of the Russian Federation and the Ministry of Housing and Public Utilities of the Moscow Region  
+- 💼 Expert in team management, digital transformation, analytics, and process automation
 
 ---
 
-### 🗂️ Key Projects
+### 🗂️✨ Key Projects
 
-| Project | Role | Description / Achievements |
-|--------|------|---------------------------|
-| **Automated Information System for Inter-Agency Interaction** | Head of IT Analytics Department | Team management, design, launch, backend/frontend, UX/UI, patent RU2024663474 |
-| **Automated Information System for Ministry of Construction (8+ modules)** | Head of IT Analytics Department | 5000+ users, integration, mobile app, patent RU2024665653 |
-| **Analytical dashboards, Telegram bots** | Project Lead | Power BI, Google Script, Telegram API, reporting automation |
-| **Digital infrastructure for Ministry of Housing (Moscow Region)** | Deputy Head | Google Apps Script, implementation, analytics, user support |
-
+<table>
+  <tr>
+    <th align="center">🚀 Project</th>
+    <th align="center">🎯 Role</th>
+    <th align="center">🌟 Achievements</th>
+  </tr>
+  <tr>
+    <td><b>🚦 AIS for Inter-Agency Cooperation of Federal Authorities</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HEAD%20OF%20ANALYTICS%20DEPARTMENT-00c853?style=for-the-badge&labelColor=00c853&logo=apachekafka&logoColor=white" alt="Head of Analytics Department"/>
+    </td>
+    <td>
+      👥 Team management<br>
+      🧩 System design and launch<br>
+      💻 Backend/frontend, UX/UI<br>
+      📄 Patent <b>RU2024663474</b>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🏗️ AIS for the Ministry of Construction of Russia (8+ modules)</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HEAD%20OF%20ANALYTICS%20DEPARTMENT-00b8d4?style=for-the-badge&labelColor=00b8d4&logo=codefactor&logoColor=white" alt="Head of Analytics Department"/>
+    </td>
+    <td>
+      👤 5000+ users<br>
+      🔗 System integration<br>
+      📱 Mobile application<br>
+      📄 Patent <b>RU2024665653</b>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📊 Analytical Dashboards, Telegram Bots</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PROJECT%20LEAD-ff9800?style=for-the-badge&labelColor=ff9800&logo=chartdotjs&logoColor=white" alt="Project Lead"/>
+    </td>
+    <td>
+      📈 Power BI<br>
+      ⚡ Google Script<br>
+      🤖 Telegram API<br>
+      🔄 Reporting automation
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Digital Infrastructure for Ministry of Housing, Moscow Region</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DEPUTY%20HEAD%20OF%20DEPARTMENT-1976d2?style=for-the-badge&labelColor=1976d2&logo=googlechrome&logoColor=white" alt="Deputy Head of Department"/>
+    </td>
+    <td>
+      📝 Google Apps Script<br>
+      🛠️ Implementation & analytics<br>
+      👥 User support
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎤 Large-Scale Event Organization</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SENIOR%20SPECIALIST-d32f2f?style=for-the-badge&labelColor=d32f2f&logo=eventbrite&logoColor=white" alt="Senior Specialist"/>
+    </td>
+    <td>
+      👏 Up to 150,000 participants<br>
+      💼 SME support<br>
+      📊 Analytics
+    </td>
+  </tr>
+</table>
 
 ---
-
-
 
 ### 🏅 Awards
 
-- Letters of appreciation from the Ministry of Construction of the Russian Federation
+- Letters of appreciation from the Ministry of Construction of the Russian Federation  
 - Letters of appreciation from the Ministry of Housing and Public Utilities of the Moscow Region
 
 ---
 
-### 💬 Strengths
+### 💬 Personal Qualities
 
 > Organizational skills • Team management • Analytical mindset  
 > Fast adaptation • Stress resistance • High-level planning  
@@ -284,9 +332,9 @@ Graphics • Art • Programming • Sports
 <details>
   <summary>✨ Principles</summary>
 
-  - Transparency and trust build strong teams
+  - Transparency and trust are the foundation of a strong team
   - Focus on results and people development
-  - I enjoy creating and implementing new solutions
+  - I love creating and implementing new solutions
 </details>
 
 [⬆️ Up](#readme)
