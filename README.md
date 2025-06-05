@@ -82,10 +82,10 @@
       <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00c853?style=for-the-badge&labelColor=00c853&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
     <td>
-      👥 Руководство командой<br>
-      🧩 Проектирование и запуск<br>
-      💻 Backend/frontend, UX/UI<br>
-      <a href="https://patents.sudrf.ru/patents/patent/ru/2024663474" target="_blank">
+      Руководство командой<br>
+      Проектирование и запуск<br>
+      Backend/frontend, UX/UI<br>
+      <a href="https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html" target="_blank">
         <img src="https://img.shields.io/badge/Патент_RU2024663474-blue?style=for-the-badge" alt="Патент RU2024663474"/>
       </a>
     </td>
