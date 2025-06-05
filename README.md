@@ -1,32 +1,32 @@
 <a name="top"></a>
-<table width="100%">
-  <tr>
-    <td align="center" width="60%">
-      <!-- Языковые бейджи -->
-      <a href="#russian">
-        <img src="https://img.shields.io/badge/🇷🇺-Русский-4f46e5?style=for-the-badge" alt="Русский"/>
-      </a>
-      <a href="#english">
-        <img src="https://img.shields.io/badge/🇬🇧-English-9333ea?style=for-the-badge" alt="English"/>
-      </a>
-    </td>
-    <td align="right" width="40%">
-      <!-- Иконки справа -->
-      <picture>
-        <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
-        <img src="assets/pro_l.svg" width="150" alt="My Icon">
-      </picture>
-      <picture>
-        <source srcset="assets/mai_t.svg" media="(prefers-color-scheme: dark)">
-        <img src="assets/mai_l.svg" width="150" alt="My Icon">
-      </picture>
-      <picture>
-        <source srcset="assets/tel_t.svg" media="(prefers-color-scheme: dark)">
-        <img src="assets/tel_l.svg" width="150" alt="My Icon">
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <!-- Языки по центру -->
+  <span>
+    <a href="#russian">
+      <img src="https://img.shields.io/badge/🇷🇺-Русский-4f46e5?style=for-the-badge" alt="Русский"/>
+    </a>
+    <a href="#english">
+      <img src="https://img.shields.io/badge/🇬🇧-English-9333ea?style=for-the-badge" alt="English"/>
+    </a>
+  </span>
+  <!-- Пробелы для отступа -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Иконки справа -->
+  <span style="float: right;">
+    <picture>
+      <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
+      <img src="assets/pro_l.svg" width="120" alt="My Icon">
+    </picture>
+    <picture>
+      <source srcset="assets/mai_t.svg" media="(prefers-color-scheme: dark)">
+      <img src="assets/mai_l.svg" width="120" alt="My Icon">
+    </picture>
+    <picture>
+      <source srcset="assets/tel_t.svg" media="(prefers-color-scheme: dark)">
+      <img src="assets/tel_l.svg" width="120" alt="My Icon">
+    </picture>
+  </span>
+</p>
 
 <br><br>
 
