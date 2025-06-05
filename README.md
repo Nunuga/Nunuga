@@ -83,9 +83,13 @@
 - Люблю строить и внедрять новые решения  
 - _Сделаю больше с меньшими ресурсами!_
 
----
-
-### 🗂️✨ Ключевые проекты
+<br><br>
+<p align="center" width="100%">
+  <picture>
+    <source srcset="assets/kluc_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
 <table align="center">
   <tr>
@@ -117,7 +121,7 @@
       Интеграция<br>
       Мобильное приложение<br>
       <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
-        <img src="https://img.shields.io/badge/Патент_RU2024665653-9333ea?style=for-the-badge" alt="Патент RU2024665653"/>
+<!--         <img src="https://img.shields.io/badge/Патент_RU2024665653-9333ea?style=for-the-badge" alt="Патент RU2024665653"/> -->
       </a>
     </td>
   </tr>
