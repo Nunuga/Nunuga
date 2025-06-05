@@ -36,7 +36,12 @@
 
 ---
 
-### 🛠️ Навыки и технологии
+<p align="center" width="100%">
+  <picture>
+    <source srcset="assets/nav_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-4f46e5?style=for-the-badge&logo=python&logoColor=white"/>
