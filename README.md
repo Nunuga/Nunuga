@@ -203,7 +203,6 @@
   </picture>
 </p>
 
-<br><br>
   
 <p align="center" width="100%">
   <picture>
