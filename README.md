@@ -181,10 +181,10 @@
 
 <p align="center">
   <a href="#readme">
-    <img src="https://img.shields.io/badge/⬆️-Наверх-purple?style=for-the-badge" alt="Наверх"/>
+    <img src="assets/2.svg" width="32" alt="Наверх" style="vertical-align:middle;"/>
+    <span style="font-size:20px; vertical-align:middle; margin-left:8px;">Наверх</span>
   </a>
 </p>
-
 </details>
 
 ---
