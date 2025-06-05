@@ -14,17 +14,10 @@
   <!-- Иконки справа -->
   <span style="float: right;">
     <picture>
-      <source srcset="assets/pro_t.svg" media="(prefers-color-scheme: dark)">
+      <source srcset="assets/m_t.svg" media="(prefers-color-scheme: dark)">
       <img src="assets/pro_l.svg" width="120" alt="My Icon">
     </picture>
-    <picture>
-      <source srcset="assets/mai_t.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/mai_l.svg" width="120" alt="My Icon">
-    </picture>
-    <picture>
-      <source srcset="assets/tel_t.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/tel_l.svg" width="120" alt="My Icon">
-    </picture>
+   
   </span>
 </p>
 
