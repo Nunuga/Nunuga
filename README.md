@@ -77,7 +77,9 @@
   </tr>
   <tr>
     <td><b>🚦 АИС для межблокового взаимодействия ФОИВ РФ</b></td>
-    <td><img src="https://img.shields.io/badge/Начальник отдела аналитики-00c853?style=for-the-badge&logo=apachekafka&logoColor=white"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00c853?style=for-the-badge&labelColor=00c853&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
+    </td>
     <td>
       👥 Руководство командой<br>
       🧩 Проектирование и запуск<br>
@@ -87,7 +89,9 @@
   </tr>
   <tr>
     <td><b>🏗️ АИС для Минстроя России (8+ модулей)</b></td>
-    <td><img src="https://img.shields.io/badge/Начальник отдела аналитики-00b8d4?style=for-the-badge&logo=codefactor&logoColor=white"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00b8d4?style=for-the-badge&labelColor=00b8d4&logo=codefactor&logoColor=white" alt="Начальник отдела аналитики"/>
+    </td>
     <td>
       👤 5000+ пользователей<br>
       🔗 Интеграция<br>
@@ -97,7 +101,9 @@
   </tr>
   <tr>
     <td><b>📊 Аналитические дашборды, Telegram-боты</b></td>
-    <td><img src="https://img.shields.io/badge/Руководитель проекта-ff9800?style=for-the-badge&logo=chartdotjs&logoColor=white"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-ff9800?style=for-the-badge&labelColor=ff9800&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
+    </td>
     <td>
       📈 Power BI<br>
       ⚡ Google Script<br>
@@ -107,7 +113,9 @@
   </tr>
   <tr>
     <td><b>🌐 Цифровая инфраструктура для МинЖКХ МО</b></td>
-    <td><img src="https://img.shields.io/badge/Зам. начальника отдела-1976d2?style=for-the-badge&logo=googlechrome&logoColor=white"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ЗАМ.%20НАЧАЛЬНИКА%20ОТДЕЛА-1976d2?style=for-the-badge&labelColor=1976d2&logo=googlechrome&logoColor=white" alt="Зам. начальника отдела"/>
+    </td>
     <td>
       📝 Google Apps Script<br>
       🛠️ Внедрение, аналитика<br>
@@ -116,7 +124,9 @@
   </tr>
   <tr>
     <td><b>🎤 Организация массовых мероприятий</b></td>
-    <td><img src="https://img.shields.io/badge/Главный специалист-d32f2f?style=for-the-badge&logo=eventbrite&logoColor=white"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ГЛАВНЫЙ%20СПЕЦИАЛИСТ-d32f2f?style=for-the-badge&labelColor=d32f2f&logo=eventbrite&logoColor=white" alt="Главный специалист"/>
+    </td>
     <td>
       👏 До 150 000 участников<br>
       💼 Поддержка МСП<br>
