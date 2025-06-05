@@ -179,8 +179,8 @@
   - 🚀 Люблю создавать и внедрять новые решения
 </details>
 <p align="center">
-  <a href="#readme">
-    <img src="assets/vv.svg" width="100" alt="Наверх"/><br>
+  <a href="#">
+    <img src="assets/vv.svg" width="64" alt="Наверх"/><br>
   </a>
 </p>
 
