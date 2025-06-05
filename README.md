@@ -71,8 +71,12 @@
 </p>
 
 ---
-
-### 🏆 О себе в двух словах
+<p align="center" width="100%">
+  <picture>
+    <source srcset="assets/prof_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
 - **7 лет** опыта в digital для госсектора  
 - **Эксперт:** управление командами, аналитика, автоматизация  
