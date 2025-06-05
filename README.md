@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Moscow-🏙️-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Contact-📧_kirikov_08@mail.ru-red?style=for-the-badge&logo=gmail">
 <br><br>
-<h2>👋 Привет, я Кирилл!</h2>
+<h2>Здравствуйте, я Ковтун Кирилл!</h2>
 <b>Руководитель проектов | Руководитель управления IT-аналитики</b>
 <br>г. Москва
 </div>
@@ -95,9 +95,9 @@
       <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-00b8d4?style=for-the-badge&labelColor=00b8d4&logo=codefactor&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
     <td>
-      👤 5000+ пользователей<br>
-      🔗 Интеграция<br>
-      📱 Мобильное приложение<br>
+      5000+ пользователей<br>
+      Интеграция<br>
+      Мобильное приложение<br>
       <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
         <img src="https://img.shields.io/badge/Патент_RU2024665653-blue?style=for-the-badge" alt="Патент RU2024665653"/>
       </a>
@@ -109,10 +109,10 @@
       <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-ff9800?style=for-the-badge&labelColor=ff9800&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
     </td>
     <td>
-      📈 Power BI<br>
-      ⚡ Google Script<br>
-      🤖 Telegram API<br>
-      🔄 Автоматизация отчётности
+      Power BI<br>
+      Google Script<br>
+      Telegram API<br>
+      Автоматизация отчётности
     </td>
   </tr>
   <tr>
@@ -121,9 +121,9 @@
       <img src="https://img.shields.io/badge/ЗАМ.%20НАЧАЛЬНИКА%20ОТДЕЛА-1976d2?style=for-the-badge&labelColor=1976d2&logo=googlechrome&logoColor=white" alt="Зам. начальника отдела"/>
     </td>
     <td>
-      📝 Google Apps Script<br>
-      🛠️ Внедрение, аналитика<br>
-      👥 Поддержка пользователей
+      Google Apps Script<br>
+      Внедрение, аналитика<br>
+      Поддержка пользователей
     </td>
   </tr>
   <tr>
@@ -132,9 +132,9 @@
       <img src="https://img.shields.io/badge/ГЛАВНЫЙ%20СПЕЦИАЛИСТ-d32f2f?style=for-the-badge&labelColor=d32f2f&logo=eventbrite&logoColor=white" alt="Главный специалист"/>
     </td>
     <td>
-      👏 До 150 000 участников<br>
-      💼 Поддержка МСП<br>
-      📊 Аналитика
+      До 150 000 участников<br>
+      Поддержка МСП<br>
+      Аналитика
     </td>
   </tr>
 </table>
@@ -143,8 +143,8 @@
 
 ### 🏅 Награды
 
-- 🏆 Благодарственные письма **Минстроя РФ**
-- 🏆 Благодарственные письма **МинЖКХ Московской области**
+- Благодарственные письма **Минстроя РФ**
+- Благодарственные письма **МинЖКХ Московской области**
 
 ---
 
@@ -179,7 +179,11 @@
   - 🚀 Люблю создавать и внедрять новые решения
 </details>
 
-[⬆️ Наверх](#readme)
+<p align="center">
+  <a href="#readme">
+    <img src="https://img.shields.io/badge/⬆️-Наверх-purple?style=for-the-badge" alt="Наверх"/>
+  </a>
+</p>
 
 </details>
 
