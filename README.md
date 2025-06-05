@@ -179,20 +179,9 @@
   - 🚀 Люблю создавать и внедрять новые решения
 </details>
 <p align="center">
-  <a href="#readme" style="text-decoration:none;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      border-radius:18px;
-      border: 2px solid #a259ec;
-      background: #faf8ff;
-      padding: 0.25em 1em 0.25em 0.6em;
-      font-size: 1.1em;
-      color: #a259ec;
-      font-weight: 600;">
-      <img src="assets/2.svg" alt="Наверх" width="22" style="margin-right:0.6em;"/>
-      Наверх
-    </span>
+  <a href="#readme">
+    <img src="assets/vv.svg" width="32" alt="Наверх"/><br>
+    
   </a>
 </p>
 </details>
