@@ -270,7 +270,8 @@
       👤 5000+ users<br>
       🔗 System integration<br>
       📱 Mobile application<br>
-      📄 Patent <b>RU2024665653</b>
+       [![Patent RU2024665653](https://img.shields.io/badge/Патент-RU2024665653-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024665653)
+</td>
     </td>
   </tr>
   <tr>
