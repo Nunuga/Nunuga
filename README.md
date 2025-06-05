@@ -78,7 +78,7 @@
   </picture>
 </p>
 <p align="left">
-  <img src="assets/lpa_l.svg" alt="О себе в двух словах" height="180" align="left" style="margin-right: 36px; border-radius:16px;">
+  <img src="assets/alpa_l.svg" alt="О себе в двух словах" height="180" align="left" style="margin-right: 36px; border-radius:16px;">
   <br>
   <b>7 лет</b> опыта в digital для госсектора<br>
   <b>Эксперт:</b> управление командами, аналитика, автоматизация<br>
