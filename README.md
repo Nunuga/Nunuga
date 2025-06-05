@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello! | Привет!
+  👋 Привет! | Hello!
   <br>
   <a href="#russian">🇷🇺</a> | <a href="#english">🇬🇧</a>
 </h1>
@@ -12,60 +12,95 @@
 <summary><b>Показать / скрыть описание на русском</b></summary>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-связаться-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:kirikov_08@mail.ru"><img src="https://img.shields.io/badge/Email-kirikov_08@mail.ru-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-связаться-26A5E4?style=flat-square&logo=telegram" alt="Telegram"></a>
 </p>
 
 <p align="center">
-  <b>🚀 [Ваше Имя]</b> • Руководитель проектов | Team Lead • <img src="https://img.shields.io/badge/Локация-Россия-blue?style=flat-square&logo=github" alt="Location">
+  <b>🚀 Ковтун</b> • Руководитель проектов | Начальник отдела аналитики • <img src="https://img.shields.io/badge/Локация-Москва-blue?style=flat-square&logo=github" alt="Location">
 </p>
 
 ---
 
-### 🛠️ Инструменты и подходы
+### 🛠️ Инструменты и технологии
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square)
+![BPMN](https://img.shields.io/badge/BPMN-blue?style=flat-square)
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-![Agile](https://img.shields.io/badge/Agile-blue?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum-green?style=flat-square)
-![Kanban](https://img.shields.io/badge/Kanban-yellow?style=flat-square)
-![Waterfall](https://img.shields.io/badge/Waterfall-grey?style=flat-square)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46B04A?style=flat-square)
+![Cinema 4D](https://img.shields.io/badge/Cinema_4D-002659?style=flat-square)
+![Blender 3D](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ---
 
 ### 👤 О себе
 
-- 🎯 Руководитель проектов с 6+ годами опыта в IT и цифровых продуктах
-- 👥 Формирую и развиваю сильные команды
-- 📈 Люблю прозрачные процессы, data-driven подход и достижение бизнес-целей
-- 📚 Постоянно учусь новым методикам и инструментам управления
+- 🏛 7 лет опыта в разработке и внедрении цифровых решений для управления государственными процессами  
+- 🥇 Награждён благодарственными письмами Министерства строительства РФ и Министерства ЖКХ Московской области  
+- 🧩 Сильные стороны:  
+  - Организаторские навыки  
+  - Управление командой  
+  - Аналитическое мышление  
+  - Быстрая адаптация  
+  - Стрессоустойчивость  
+  - Работа на результат  
+  - Высокий уровень планирования  
+- 📍 Город: Москва  
+- ✉️ Email: kirikov_08@mail.ru  
+- ☎️ Телефон: +7 985 512 64 46  
 
 ---
 
-### 🗂️ Ключевые проекты
+### 🗂️ Ключевые проекты и достижения
 
-| Проект                             | Роль                | Описание / Результаты                       |
-|-------------------------------------|---------------------|---------------------------------------------|
-| **Внедрение CRM**                   | Руководитель проекта| Запуск с нуля, рост продаж на 35% за год    |
-| **Цифровая трансформация (ритейл)** | Team Lead           | Кросс-командная работа, все сроки соблюдены |
-| **Мобильное приложение банка**      | Scrum Master        | MVP за 5 месяцев, >100 000 пользователей    |
+| Проект                                                                                 | Роль                   | Результат / Инструменты                                                                                                                                                                          |
+|----------------------------------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| АИС для межблокового взаимодействия ФОИВ-ов РФ                                        | Начальник отдела аналитики | Руководство командой, аналитика, проектирование, backend (Python, Django), UX/UI, frontend (TypeScript, React), запуск, сопровождение, аттестация; зарегистрирована Роспатентом RU2024663474    |
+| АИС для Минстроя России (8+ модулей, 5000+ пользователей)                             | Начальник отдела аналитики | Руководство командой, аналитика, проектирование, backend (Django), интеграции, frontend (Next.js), мобильное приложение (Android), запуск, сопровождение; Роспатент RU2024665653                |
+| Аналитические дашборды и Telegram-боты                                                | Руководитель проекта   | Power BI, Google Script, VBA, разработка и внедрение ботов и дашбордов                                                                                                                          |
+| Внедрение цифровой инфраструктуры для МинЖКХ МО                                       | Зам. начальника отдела | Архитектура, формы, Google Apps Script, внедрение, обучение пользователей, аналитика, тестирование, сайт и Telegram-бот                                                                         |
+| Организация массовых мероприятий (до 150 тыс. человек), поддержка МСП, аналитика реестров | Главный специалист      | Мониторинг, подготовка материалов, организация бизнес-форумов и пресс-конференций, субсидирование                                                        |
+| Администрация города Хабаровска, Газпром газораспределение Дальний Восток             | Главный специалист      | Создание и администрирование корпоративного сайта, аналитика, ре-брендинг, информпродукты                                                                |
 
 ---
 
-### 🏅 Сертификаты и навыки
+### 🎓 Образование
 
-![PMP](https://img.shields.io/badge/PMP-синий?style=flat-square)
-![CSM](https://img.shields.io/badge/Scrum_Master-зелёный?style=flat-square)
-![PSPO I](https://img.shields.io/badge/Product_Owner-золото?style=flat-square)
+- Дальневосточный государственный университет путей сообщения, 2011  
+  **Специальность:** Психология
 
-- Управление проектами • Agile/Scrum/Kanban
-- Управление рисками • Лидерство
-- Коммуникация • Работа с заказчиками и командой
+---
+
+### 🏅 Награды
+
+- Благодарственные письма Министерства строительства РФ  
+- Благодарственные письма Министерства ЖКХ Московской области
+
+---
+
+### 📚 Интересы
+
+- Графика, искусство, программирование, спорт
 
 ---
 
@@ -81,8 +116,9 @@
 
 ### 📫 Контакты
 
-- [LinkedIn](https://linkedin.com/in/your-link)
-- Email: your.email@example.com
+- Email: kirikov_08@mail.ru
+- Telegram: [@your_telegram](https://t.me/your_telegram)
+- Москва, Россия
 
 ---
 
@@ -91,7 +127,7 @@
 
   - Прозрачность и доверие — залог сильной команды
   - Фокус на результат и развитие людей
-  - Верю в обмен знаниями и менторство
+  - Люблю создавать и внедрять новые решения
 </details>
 
 </details>
@@ -104,60 +140,95 @@
 <summary><b>Show / hide English description</b></summary>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:kirikov_08@mail.ru"><img src="https://img.shields.io/badge/Email-kirikov_08@mail.ru-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-contact-26A5E4?style=flat-square&logo=telegram" alt="Telegram"></a>
 </p>
 
 <p align="center">
-  <b>🚀 [Your Name]</b> • Project Manager | Team Lead • <img src="https://img.shields.io/badge/Location-Russia-blue?style=flat-square&logo=github" alt="Location">
+  <b>🚀 Kovtun</b> • Project Manager | Head of Analytics Department • <img src="https://img.shields.io/badge/Location-Moscow-blue?style=flat-square&logo=github" alt="Location">
 </p>
 
 ---
 
-### 🛠️ Tools & Methods
+### 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square)
+![BPMN](https://img.shields.io/badge/BPMN-blue?style=flat-square)
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-![Agile](https://img.shields.io/badge/Agile-blue?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum-green?style=flat-square)
-![Kanban](https://img.shields.io/badge/Kanban-yellow?style=flat-square)
-![Waterfall](https://img.shields.io/badge/Waterfall-grey?style=flat-square)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46B04A?style=flat-square)
+![Cinema 4D](https://img.shields.io/badge/Cinema_4D-002659?style=flat-square)
+![Blender 3D](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ---
 
 ### 👤 About Me
 
-- 🎯 Project manager with 6+ years of experience in IT and digital products
-- 👥 I build and grow strong teams
-- 📈 Enjoy process transparency, data-driven approach, and achieving business goals
-- 📚 Always learning new methodologies and tools
+- 🏛 7 years of experience in developing and implementing digital solutions for government management  
+- 🥇 Awarded by the Ministry of Construction of the Russian Federation and Ministry of Housing and Public Utilities of the Moscow Region  
+- 🧩 Strengths:  
+  - Organizational skills  
+  - Team leadership  
+  - Analytical mindset  
+  - Fast adaptation  
+  - Stress resistance  
+  - Result-driven  
+  - High-level planning  
+- 📍 City: Moscow  
+- ✉️ Email: kirikov_08@mail.ru  
+- ☎️ Phone: +7 985 512 64 46  
 
 ---
 
-### 🗂️ Key Projects
+### 🗂️ Key Projects & Achievements
 
-| Project                          | Role            | Description / Results                            |
-|-----------------------------------|-----------------|--------------------------------------------------|
-| **CRM Implementation**           | Project Manager | Launched from scratch, +35% sales in 1 year      |
-| **Digital Transformation (Retail)** | Team Lead      | Cross-functional teamwork, all deadlines met      |
-| **Banking Mobile App**           | Scrum Master    | MVP in 5 months, 100,000+ users                  |
+| Project                                                                  | Role                   | Results / Tools                                                                                                                                            |
+|--------------------------------------------------------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Automated Information System for Inter-Agency Interaction (Russian Fed.)  | Head of Analytics      | Team leadership, analytics, system design, backend (Python, Django), UX/UI, frontend (TypeScript, React), launch, support, certification (RU2024663474)   |
+| Automated Information System for Ministry of Construction (8+ modules)    | Head of Analytics      | Leadership, analytics, design, backend (Django), integrations, frontend (Next.js), mobile app (Android), launch, support, certification (RU2024665653)   |
+| Analytical Dashboards & Telegram Bots                                    | Project Lead           | Power BI, Google Script, VBA, bots and dashboards development and deployment                                                                               |
+| Digital Infrastructure for Ministry of Housing (Moscow Region)           | Deputy Head            | Architecture, forms, Google Apps Script, user support, analytics, testing, website, Telegram bot                                                          |
+| Mass Event Organization (up to 150,000 people), SME Support, Registry Analytics | Senior Specialist     | Monitoring, materials preparation, organizing business forums and press conferences, SME support                                                           |
+| City Administration of Khabarovsk, Gazprom Gas Distribution Far East     | Senior Specialist      | Corporate website creation and administration, analytics, rebranding, info products                                                                        |
 
 ---
 
-### 🏅 Certifications & Skills
+### 🎓 Education
 
-![PMP](https://img.shields.io/badge/PMP-blue?style=flat-square)
-![CSM](https://img.shields.io/badge/Scrum_Master-green?style=flat-square)
-![PSPO I](https://img.shields.io/badge/Product_Owner-gold?style=flat-square)
+- Far Eastern State Transport University, 2011  
+  **Specialty:** Psychology
 
-- Project Management • Agile/Scrum/Kanban
-- Risk Management • Leadership
-- Communication • Stakeholder Management
+---
+
+### 🏅 Awards
+
+- Letters of Appreciation from Ministry of Construction of the Russian Federation  
+- Letters of Appreciation from Ministry of Housing and Public Utilities of Moscow Region
+
+---
+
+### 📚 Interests
+
+- Graphics, art, programming, sports
 
 ---
 
@@ -173,17 +244,18 @@
 
 ### 📫 Contacts
 
-- [LinkedIn](https://linkedin.com/in/your-link)
-- Email: your.email@example.com
+- Email: kirikov_08@mail.ru
+- Telegram: [@your_telegram](https://t.me/your_telegram)
+- Moscow, Russia
 
 ---
 
 <details>
   <summary>✨ Principles</summary>
 
-  - Transparency and trust build strong teams
+  - Transparency and trust are the foundation of a strong team
   - Focus on results and people development
-  - I believe in sharing knowledge and mentoring
+  - I enjoy creating and implementing new solutions
 </details>
 
 </details>
