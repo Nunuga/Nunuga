@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#russian">
-    <img src="https://img.shields.io/badge/🇷🇺-Русский-blue?style=for-the-badge" alt="Russian"/>
+    <img src="https://img.shields.io/badge/🇷🇺-Русский-blue?style=for-the-badge" alt="Русский"/>
   </a>
   <a href="#english">
     <img src="https://img.shields.io/badge/🇬🇧-English-green?style=for-the-badge" alt="English"/>
@@ -30,8 +30,8 @@
 
 ### 🏆 Общая информация
 
-- 🔹 7 лет опыта в разработке и внедрении цифровых решений для государственных структур
-- 🥇 Награждён благодарственными письмами Министерства строительства РФ и Министерства ЖКХ Московской области
+- 🔹 7 лет опыта в разработке и внедрении цифровых решений для государственных структур  
+- 🥇 Награждён благодарственными письмами Министерства строительства РФ и Министерства ЖКХ Московской области  
 - 💼 Эксперт в управлении командами, цифровой трансформации, аналитике и автоматизации процессов
 
 ---
@@ -50,6 +50,16 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CorelDRAW-46B04A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cinema_4D-002659?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ---
@@ -62,16 +72,11 @@
 | **АИС для Минстроя России (8+ модулей)** | Начальник отдела аналитики | 5000+ пользователей, интеграция, мобильное приложение, патент RU2024665653 |
 | **Аналитические дашборды, Telegram-боты** | Руководитель проекта | Power BI, Google Script, Telegram API, автоматизация отчётности |
 | **Цифровая инфраструктура для МинЖКХ МО** | Зам. начальника отдела | Google Apps Script, внедрение, аналитика, поддержка пользователей |
-| **Организация массовых мероприятий** | Главный специалист | Организация событий до 150 000 участников, поддержка МСП, аналитика |
+
 
 ---
 
-### 🎓 Образование
 
-- **Дальневосточный государственный университет путей сообщения**  
-  Специальность: Психология, 2011
-
----
 
 ### 🏅 Награды
 
@@ -93,8 +98,6 @@
 Графика • Искусство • Программирование • Спорт
 
 ---
-
-
 
 ### 📫 Контакты
 
@@ -124,9 +127,9 @@
 <details>
 <summary><b>Show / hide English description</b></summary>
 
-<h2 align="center">Kovtun</h2>
+<h2 align="center">Kovtun Kirill</h2>
 <p align="center">
-  <b>Project Manager | Head of Analytics Department</b><br>
+  <b>Project Manager | Head of IT Analytics Department</b><br>
   Moscow, Russia
 </p>
 
@@ -134,13 +137,13 @@
 
 ### 🏆 Summary
 
-- 🔹 7 years of experience in developing and implementing digital solutions for government organizations
-- 🥇 Awarded by the Ministry of Construction of the Russian Federation and the Ministry of Housing and Public Utilities of the Moscow Region
+- 🔹 7 years of experience in developing and implementing digital solutions for government agencies  
+- 🥇 Awarded by the Ministry of Construction of the Russian Federation and the Ministry of Housing and Public Utilities of the Moscow Region  
 - 💼 Expert in team management, digital transformation, analytics, and process automation
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -154,6 +157,16 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CorelDRAW-46B04A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cinema_4D-002659?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ---
@@ -162,20 +175,15 @@
 
 | Project | Role | Description / Achievements |
 |--------|------|---------------------------|
-| **Automated Information System for Inter-Agency** | Head of Analytics | Team management, design, launch, backend/frontend, UX/UI, patent RU2024663474 |
+| **Automated Information System for Inter-Agency Interaction** | Head of Analytics | Team management, design, launch, backend/frontend, UX/UI, patent RU2024663474 |
 | **Automated Information System for Ministry of Construction (8+ modules)** | Head of Analytics | 5000+ users, integration, mobile app, patent RU2024665653 |
 | **Analytical dashboards, Telegram bots** | Project Lead | Power BI, Google Script, Telegram API, reporting automation |
 | **Digital infrastructure for Ministry of Housing (Moscow Region)** | Deputy Head | Google Apps Script, implementation, analytics, user support |
-| **Large-scale event management** | Senior Specialist | Organizing events for up to 150,000 people, SME support, analytics |
+
 
 ---
 
-### 🎓 Education
 
-- **Far Eastern State Transport University**  
-  Specialty: Psychology, 2011
-
----
 
 ### 🏅 Awards
 
@@ -198,14 +206,10 @@ Graphics • Art • Programming • Sports
 
 ---
 
-
-
 ### 📫 Contacts
 
-<p>
-  <img src="https://img.shields.io/badge/Email-kirikov_08@mail.ru-red?style=flat-square&logo=gmail"/>
-  <img src="https://img.shields.io/badge/Moscow-Russia-blue?style=flat-square"/>
-</p>
+- Email: kirikov_08@mail.ru  
+- Moscow, Russia
 
 ---
 
