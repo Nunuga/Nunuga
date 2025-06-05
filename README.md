@@ -196,10 +196,12 @@
   </picture>
 </p>
 
-- Графика 
-- Искусство 
-- Программирование 
-- Спорт
+<p align="center" width="100%">
+  <picture>
+    <source srcset="assets/interes.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
 <br><br>
   
