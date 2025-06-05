@@ -35,7 +35,6 @@
 <br>г. Москва
 </div>
 
----
   
 <p align="center" width="100%">
   <picture>
