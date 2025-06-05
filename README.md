@@ -16,16 +16,16 @@
 
 <p align="center">
   <picture>
-    <source srcset="assets/v1-dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/v1-light.svg" width="100" height="40" alt="Project Manager" style="margin-right: 8px;"/>
+    <source srcset="assets/p1.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/p1l.svg" width="100" height="40" alt="Project Manager" style="margin-right: 8px;"/>
   </picture>
   <picture>
-    <source srcset="assets/v2-dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/v2-light.svg" width="100" height="40" alt="Moscow" style="margin-right: 8px;"/>
+    <source srcset="assets/m2.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/m2l.svg" width="100" height="40" alt="Moscow" style="margin-right: 8px;"/>
   </picture>
   <picture>
-    <source srcset="assets/v3-dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/v3-light.svg" width="100" height="40" alt="Contact" style="margin-right: 8px;"/>
+    <source srcset="assets/t3.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/t3l.svg" width="100" height="40" alt="Contact" style="margin-right: 8px;"/>
   </picture>
 </p>
 <br><br>
