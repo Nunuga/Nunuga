@@ -12,7 +12,7 @@
 
 <details open>
 <summary>
-    <a name="russian"> </a>🇷🇺 
+    <img src="https://img.shields.io/badge/🇷🇺-4f46e5?style=for-the-badge" alt="Русский"/>
   </summary>
 
 
