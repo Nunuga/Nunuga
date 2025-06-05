@@ -85,7 +85,9 @@
       👥 Руководство командой<br>
       🧩 Проектирование и запуск<br>
       💻 Backend/frontend, UX/UI<br>
-      [![Патент RU2024663474](https://img.shields.io/badge/Патент-RU2024663474-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024663474)
+      <a href="https://patents.sudrf.ru/patents/patent/ru/2024663474" target="_blank">
+        <img src="https://img.shields.io/badge/Патент_RU2024663474-blue?style=for-the-badge" alt="Патент RU2024663474"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -97,7 +99,9 @@
       👤 5000+ пользователей<br>
       🔗 Интеграция<br>
       📱 Мобильное приложение<br>
-      [![Патент RU2024665653](https://img.shields.io/badge/Патент-RU2024665653-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024665653)
+      <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
+        <img src="https://img.shields.io/badge/Патент_RU2024665653-blue?style=for-the-badge" alt="Патент RU2024665653"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -258,7 +262,9 @@
       👥 Team management<br>
       🧩 System design and launch<br>
       💻 Backend/frontend, UX/UI<br>
-      [![Patent RU2024663474](https://img.shields.io/badge/Patent-RU2024663474-blue?style=for-the-badge)](https://patents.sudrf.ru/patents/patent/ru/2024663474)
+      <a href="https://patents.sudrf.ru/patents/patent/ru/2024663474" target="_blank">
+        <img src="https://img.shields.io/badge/Patent_RU2024663474-blue?style=for-the-badge" alt="Patent RU2024663474"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -270,7 +276,9 @@
       👤 5000+ users<br>
       🔗 System integration<br>
       📱 Mobile application<br>
-      <b>📄 [Патент RU2024663474](https://patents.sudrf.ru/patents/patent/ru/2024663474)</b>
+      <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
+        <img src="https://img.shields.io/badge/Patent_RU2024665653-blue?style=for-the-badge" alt="Patent RU2024665653"/>
+      </a>
     </td>
   </tr>
   <tr>
