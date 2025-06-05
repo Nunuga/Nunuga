@@ -42,7 +42,7 @@
     <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
-
+<br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-4f46e5?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-4f46e5?style=for-the-badge&logo=django&logoColor=white"/>
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Android_Studio-4f46e5?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
----
+<br><br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/prof_t.svg" media="(prefers-color-scheme: dark)">
