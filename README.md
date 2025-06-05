@@ -80,9 +80,9 @@
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <!-- Левая колонка: изображение -->
-    <td align="center" width="40%">
+    <td align="center" width="80%">
       <picture>
-        <source srcset="assets/lpa_l.svg" media="(prefers-color-scheme: dark)">
+        <source srcset="assets/alpa_l.svg" media="(prefers-color-scheme: dark)">
         <img src="assets/lpa_l.svg" alt="О себе в двух словах" style="width:90%; max-width:340px; min-width:120px; border-radius:16px;">
       </picture>
     </td>
