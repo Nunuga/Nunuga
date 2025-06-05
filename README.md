@@ -189,8 +189,8 @@
 
 | Project | Role | Description / Achievements |
 |--------|------|---------------------------|
-| **Automated Information System for Inter-Agency Interaction** | Head of Analytics | Team management, design, launch, backend/frontend, UX/UI, patent RU2024663474 |
-| **Automated Information System for Ministry of Construction (8+ modules)** | Head of Analytics | 5000+ users, integration, mobile app, patent RU2024665653 |
+| **Automated Information System for Inter-Agency Interaction** | Head of IT Analytics Department | Team management, design, launch, backend/frontend, UX/UI, patent RU2024663474 |
+| **Automated Information System for Ministry of Construction (8+ modules)** | Head of IT Analytics Department | 5000+ users, integration, mobile app, patent RU2024665653 |
 | **Analytical dashboards, Telegram bots** | Project Lead | Power BI, Google Script, Telegram API, reporting automation |
 | **Digital infrastructure for Ministry of Housing (Moscow Region)** | Deputy Head | Google Apps Script, implementation, analytics, user support |
 
