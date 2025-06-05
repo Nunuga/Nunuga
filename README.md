@@ -162,15 +162,6 @@
 
 ---
 
-### 📫 Контакты
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Email-kirikov_08@mail.ru-red?style=for-the-badge&logo=gmail"/>
-  <img src="https://img.shields.io/badge/Москва-Россия-blue?style=for-the-badge"/>
-</p>
-
----
-
 <details>
   <summary>✨ <b>Принципы работы</b></summary>
 
