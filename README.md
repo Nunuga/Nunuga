@@ -14,7 +14,7 @@
   <summary>
     <picture>
       <source srcset="assets/RU_t.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/pro_l.svg" alt="Навыки и технологии" width="40" style="vertical-align:middle;">
+      <img src="assets/pro_l.svg" alt="Навыки и технологии" width="100" style="vertical-align:middle;">
     </picture>
   </summary>
 
