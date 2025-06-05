@@ -85,9 +85,9 @@
       Руководство командой<br>
       Проектирование и запуск<br>
       Backend/frontend, UX/UI<br>
-      <a href="https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html" target="_blank">
-        <img src="https://img.shields.io/badge/Патент_RU2024663474-blue?style=for-the-badge" alt="Патент RU2024663474"/>
-      </a>
+      <a href="https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html">
+  <img src="https://img.shields.io/badge/Патент_RU2024663474-blue?style=for-the-badge" alt="Патент RU2024663474"/>
+</a>
     </td>
   </tr>
   <tr>
