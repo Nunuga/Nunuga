@@ -97,13 +97,13 @@
     <td align="left">
       <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
-    <td><b>🚦 АИС для межблокового взаимодействия ФОИВ РФ</b></td>
+    <td><b>АИС для межблокового взаимодействия ФОИВ РФ</b></td>
     <td>
       Руководство командой<br>
       Проектирование и запуск<br>
       Backend/frontend, UX/UI<br>
       <a href="https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html">
-        <img src="https://img.shields.io/badge/Патент_RU2024663474-blue?style=for-the-badge" alt="Патент RU2024663474"/>
+        <img src="https://img.shields.io/badge/Патент_RU2024663474-#9333ea?style=for-the-badge" alt="Патент RU2024663474"/>
       </a>
     </td>
   </tr>
@@ -111,13 +111,13 @@
     <td align="left">
       <img src="https://img.shields.io/badge/НАЧАЛЬНИК%20ОТДЕЛА%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=codefactor&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
-    <td><b>🏗️ АИС для Минстроя России (8+ модулей)</b></td>
+    <td><b>АИС для Минстроя России (8+ модулей)</b></td>
     <td>
       5000+ пользователей<br>
       Интеграция<br>
       Мобильное приложение<br>
       <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
-        <img src="https://img.shields.io/badge/Патент_RU2024665653-blue?style=for-the-badge" alt="Патент RU2024665653"/>
+        <img src="https://img.shields.io/badge/Патент_RU2024665653-#9333ea?style=for-the-badge" alt="Патент RU2024665653"/>
       </a>
     </td>
   </tr>
@@ -125,7 +125,7 @@
     <td align="left">
       <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
     </td>
-    <td><b>📊 Аналитические дашборды, Telegram-боты</b></td>
+    <td><b>Аналитические дашборды, Telegram-боты</b></td>
     <td>
       Power BI<br>
       Google Script<br>
@@ -137,7 +137,7 @@
     <td align="left">
       <img src="https://img.shields.io/badge/ЗАМ.%20НАЧАЛЬНИКА%20ОТДЕЛА-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=googlechrome&logoColor=white" alt="Зам. начальника отдела"/>
     </td>
-    <td><b>🌐 Цифровая инфраструктура для МинЖКХ МО</b></td>
+    <td><b>Цифровая инфраструктура для МинЖКХ МО</b></td>
     <td>
       Google Apps Script<br>
       Внедрение, аналитика<br>
