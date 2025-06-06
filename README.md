@@ -12,6 +12,13 @@
     <source srcset="assets/tel_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/tel_l.svg" width="200" alt="My Icon">
   </picture> -->
+
+  <p align="center" width="100%">
+  <picture>
+    <source srcset="assets/12.gif" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 </p>
 <p align="center">
   <a href="#russian">
