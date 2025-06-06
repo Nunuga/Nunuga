@@ -15,7 +15,7 @@
 
   <p align="center" width="100%">
   <picture>
-    <img src="assets/13.gif" width="200%" alt="Gold to Gradient Animation">
+    <img src="assets/14.gif" width="200%" alt="Gold to Gradient Animation">
   </picture>
 </p>
 </p>
