@@ -1,9 +1,5 @@
 <a name="top"></a>
-<p align="end">
-  <picture>
-    <source srcset="assets/m_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/pro_l.svg" width="35" alt="My Icon">
-  </picture>
+
 <!--   <picture>
     <source srcset="assets/mai_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/mai_l.svg" width="200" alt="My Icon">
@@ -12,9 +8,6 @@
     <source srcset="assets/tel_t.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/tel_l.svg" width="200" alt="My Icon">
   </picture> -->
-
-  
-</p>
 <p align="center">
   <a href="#russian">
     <img src="https://img.shields.io/badge/🇷🇺-Русский-4f46e5?style=for-the-badge" alt="Русский"/>
@@ -22,6 +15,10 @@
   <a href="#english">
     <img src="https://img.shields.io/badge/🇬🇧-English-9333ea?style=for-the-badge" alt="English"/>
   </a>
+  <picture>
+    <source srcset="assets/m_t.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/pro_l.svg" width="35" alt="My Icon">
+  </picture>
 </p>
 
 <br><br>
