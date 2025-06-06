@@ -53,6 +53,11 @@
     <img src="assets/tel_l.svg" width="200" alt="My Icon">
   </picture>
 </p> -->
+<p align="center" width="100%">
+  <picture>
+    <img src="assets/123.gif" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+  </picture>
+</p>
 
 <h2>Здравствуйте, я Ковтун Кирилл!</h2>
 <b>Руководитель проектов | Руководитель управления IT-аналитики</b>
