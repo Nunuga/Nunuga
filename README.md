@@ -15,8 +15,7 @@
 
   <p align="center" width="100%">
   <picture>
-    <source srcset="assets/12.gif" media="(prefers-color-scheme: dark)">
-    <img src="assets/pro_l.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
+    <img src="assets/12.gif" width="380" alt="Gold to Gradient Animation">
   </picture>
 </p>
 </p>
