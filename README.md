@@ -25,10 +25,6 @@
 </p>
 
 <br><br>
-<p align="center" width="100%">
-  <picture>
-    <img src="assets/15.gif" width="200%" alt="Gold to Gradient Animation">
-  </picture>
 
 
 
