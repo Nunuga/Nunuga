@@ -64,7 +64,7 @@
     <img src="assets/naw_w.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
-<br><br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-4f46e5?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-4f46e5?style=for-the-badge&logo=django&logoColor=white"/>
@@ -92,7 +92,7 @@
   <img src="https://img.shields.io/badge/Android_Studio-4f46e5?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
-<br><br>
+<br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/linfo_b.svg" media="(prefers-color-scheme: dark)">
@@ -108,8 +108,8 @@
   <i>- Сделаю больше с меньшими ресурсами!</i>
 </p>
 
-<br><br>
-<br><br>
+
+<br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/proj_b.svg" media="(prefers-color-scheme: dark)">
@@ -177,7 +177,7 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/cubok_b.svg" media="(prefers-color-scheme: dark)">
@@ -188,7 +188,7 @@
 - Благодарственные письма **Минстроя РФ**
 - Благодарственные письма **МинЖКХ Московской области**
 
-<br><br>
+<br>
   
 <p align="center" width="100%">
   <picture>
@@ -262,7 +262,7 @@
 <b>Project Manager | Head of IT Analytics Department</b>
 <br>Moscow, Russia
 </div>
-<br><br>
+<br>
 
 <p align="center" width="100%">
   <picture>
@@ -270,7 +270,7 @@
     <img src="assets/en_st_w.svg" alt="Skills & Technologies" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
-<br><br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-9333ea?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-9333ea?style=for-the-badge&logo=django&logoColor=white"/>
@@ -298,7 +298,7 @@
   <img src="https://img.shields.io/badge/Android_Studio-9333ea?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
-<br><br>
+<br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/en_ab_b.svg" media="(prefers-color-scheme: dark)">
@@ -314,8 +314,8 @@
   <i>- Achieve more with fewer resources!</i>
 </p>
 
-<br><br>
-<br><br>
+
+<br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/en_proj_b.svg" media="(prefers-color-scheme: dark)">
@@ -382,7 +382,7 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/en_cubok_b.svg" media="(prefers-color-scheme: dark)">
@@ -393,7 +393,7 @@
 - Letters of gratitude from the Ministry of Construction of the Russian Federation
 - Letters of gratitude from the Ministry of Housing and Public Utilities of the Moscow Region
 
-<br><br>
+<br>
   
 <p align="center" width="100%">
   <picture>
@@ -408,7 +408,7 @@
 • Strategic planning  
 - Result-oriented
 
-<br><br>
+<br>
   
 <p align="center" width="100%">
   <picture>
