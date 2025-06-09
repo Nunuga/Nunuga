@@ -109,7 +109,7 @@
 </p>
 
 
-<br>
+<br><br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/proj_b.svg" media="(prefers-color-scheme: dark)">
@@ -315,7 +315,7 @@
 </p>
 
 
-<br>
+<br><br>
 <p align="center" width="100%">
   <picture>
     <source srcset="assets/en_proj_b.svg" media="(prefers-color-scheme: dark)">
