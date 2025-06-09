@@ -308,9 +308,9 @@
 <p align="left">
   <img src="assets/alpak_l.svg" alt="About Me" width="50%" height="200" align="left" style="margin-right: 36px; border-radius:16px;">
   <br>
-  <b>- 7 years</b> of experience in digital for government sector<br>
+  <b>- 7 years</b>  of experience in digital for the government sector<br>
   <b>- Expert:</b> team management, analytics, automation<br>
-  - Passionate about building and implementing new solutions<br>
+  <b>-  I am passionate about creating and implementing new solutions<br>
   <i>- Achieve more with fewer resources!</i>
 </p>
 
@@ -333,7 +333,7 @@
     <td align="left">
       <img src="https://img.shields.io/badge/HEAD%20OF%20IT%20ANALYTICS%20DEPT-9333ea?style=for-the-badge&labelColor=4f46e5&logo=apachekafka&logoColor=white" alt="Head of IT Analytics"/>
     </td>
-    <td><b>Interdepartmental System for Russian Federal Agencies</b></td>
+    <td><b>Interdepartmental system for federal ministries of the Russian Federation</b></td>
     <td>
       Team management<br>
       Design and launch<br>
@@ -347,7 +347,8 @@
     <td align="left">
       <img src="https://img.shields.io/badge/HEAD%20OF%20IT%20ANALYTICS%20DEPT-9333ea?style=for-the-badge&labelColor=4f46e5&logo=apachekafka&logoColor=white" alt="Head of IT Analytics"/>
     </td>
-    <td><b>System for the Ministry of Construction of Russia (8+ modules)</b></td>
+    <td><b>System for the Ministry of Construction and Housing and Communal Services of the Russian Federation (8+ modules)
+</b></td>
     <td>
       5000+ users<br>
       Integration<br>
@@ -373,7 +374,7 @@
     <td align="left">
       <img src="https://img.shields.io/badge/DEPUTY%20HEAD%20OF%20DEPT-9333ea?style=for-the-badge&labelColor=4f46e5&logo=googlechrome&logoColor=white" alt="Deputy Head"/>
     </td>
-    <td><b>Digital Infrastructure for the Ministry of Housing and Public Utilities of Moscow Region</b></td>
+    <td><b>Digital infrastructure of the Ministry of Housing and Communal Services of the Moscow Region</b></td>
     <td>
       Google Apps Script<br>
       Implementation, analytics<br>
@@ -390,8 +391,8 @@
   </picture>
 </p>
 
-- Letters of gratitude from the Ministry of Construction of the Russian Federation
-- Letters of gratitude from the Ministry of Housing and Public Utilities of the Moscow Region
+- Letters of gratitude from the Ministry of Construction and Housing and Communal Services of the Russian Federation
+- Letters of gratitude from the Ministry of Housing and Communal Services of the Moscow Region
 
 <br>
   
@@ -403,9 +404,9 @@
 </p>
 
 **- Organizer** • **Leader** • _Analyst_  
-- Fast adaptability  
-• Stress resistant  
-• Strategic planning  
+- Fast adaptation  
+- Stress resistant 
+- Strategic planning  
 - Result-oriented
 
 <br>
