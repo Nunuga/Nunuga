@@ -13,16 +13,22 @@
     <img src="assets/lru.svg" width="35" alt="My Icon">
   </picture>
 </a>
+<!--        <a href="https://t.me/Kovtun_Kirill" target="_blank"> -->
+  <picture>
+    <source srcset="assets/vq.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/vq.svg" width="35" alt="My Icon">
+  </picture>
+<!-- </a> -->
+       <a href="https://t.me/Kovtun_Kirill" target="_blank">
+  <picture>
+    <source srcset="assets/zt.svg" media="(prefers-color-scheme: dark)">
+    <img src="assets/zt.svg" width="35" alt="My Icon">
+  </picture>
+</a>
     <a href="mailto:kirikov_08@mail.ru">
   <picture>
     <source srcset="assets/zm.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/zm.svg" width="35" alt="My Icon">
-  </picture>
-</a>
-   <a href="https://t.me/Kovtun_Kirill" target="_blank">
-  <picture>
-    <source srcset="assets/zt.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/zt.svg" width="35" alt="My Icon">
   </picture>
 </a>
 </p> 
@@ -119,7 +125,7 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20УПРАВЛЕНИЯ%20IT%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
+      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20УПРАВЛЕНИЯ%20IT%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=9333ea&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
     <td><b>АИС для межблокового взаимодействия ФОИВ РФ</b></td>
     <td>
@@ -133,7 +139,7 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20УПРАВЛЕНИЯ%20IT%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
+      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20УПРАВЛЕНИЯ%20IT%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=9333ea&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
     </td>
     </td>
     <td><b>АИС для Минстроя России (8+ модулей)</b></td>
@@ -148,7 +154,7 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
+      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-4f46e5?style=for-the-badge&labelColor=9333ea&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
     </td>
     <td><b>Аналитические дашборды, Telegram-боты</b></td>
     <td>
@@ -160,7 +166,7 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/ЗАМ.%20НАЧАЛЬНИКА%20ОТДЕЛА-4f46e5?style=for-the-badge&labelColor=4f46e5&logo=googlechrome&logoColor=white" alt="Зам. начальника отдела"/>
+      <img src="https://img.shields.io/badge/ЗАМ.%20НАЧАЛЬНИКА%20ОТДЕЛА-4f46e5?style=for-the-badge&labelColor=9333ea&logo=googlechrome&logoColor=white" alt="Зам. начальника отдела"/>
     </td>
     <td><b>Цифровая инфраструктура для МинЖКХ МО</b></td>
     <td>
