@@ -37,7 +37,7 @@
     <img src="assets/123.gif" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
 </p>
-
+<a name="russian"></a>
 <details>
   <summary>
     <picture>
