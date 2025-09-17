@@ -148,7 +148,7 @@
       Интеграция<br>
       Мобильное приложение<br>
       <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
-<!--         <img src="https://img.shields.io/badge/Патент_RU2024665653-9333ea?style=for-the-badge" alt="Патент RU2024665653"/> -->
+    <img src="https://img.shields.io/badge/Патент_RU2024665653-9333ea?style=for-the-badge" alt="Патент RU2024665653"/>
       </a>
     </td>
   </tr>
