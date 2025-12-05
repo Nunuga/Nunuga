@@ -205,7 +205,7 @@
 
 <br><br>
   
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
   <picture>
     <source srcset="assets/inter_b.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/interes_w.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
@@ -225,7 +225,7 @@
     <source srcset="assets/princ_b.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/princ_w.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
   </picture>
-</p>
+</p> -->
 
   - Прозрачность и доверие — залог сильной команды  
   - Фокус на результат и развитие людей  
