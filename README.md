@@ -205,19 +205,6 @@
 
 <br><br>
   
-<!-- <p align="center" width="100%">
-  <picture>
-    <source srcset="assets/inter_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/interes_w.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets//interes_b1.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets//interes_b1.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p> -->
 
   
 <p align="center" width="100%">
@@ -411,19 +398,6 @@
 
 <br>
   
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_inter_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_inter_w.svg" alt="Interests" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_interes_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_interes_b.svg" alt="Interests" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
 
   
 <p align="center" width="100%">
