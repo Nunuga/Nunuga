@@ -13,7 +13,7 @@
     <img src="assets/lru.svg" width="35" alt="My Icon">
   </picture>
 </a>
-<!--        <a href="https://t.me/Kovtun_Kirill" target="_blank"> -->
+       <a href="https://kovtun-cio.ru" target="_blank">
   <picture>
     <source srcset="assets/vq.svg" media="(prefers-color-scheme: dark)">
     <img src="assets/vq.svg" width="35" alt="My Icon">
