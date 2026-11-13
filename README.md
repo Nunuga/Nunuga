@@ -1,423 +1,175 @@
-<a name="top"></a>
+<p align="right"><a href="https://nunuga.github.io/Nunuga/?lang=en">English</a></p>
 
-<p align="end">
-      <a href="#english">
-  <picture>
-    <source srcset="assets/len.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/len.svg" width="35" alt="My Icon">
-  </picture>
-</a>
-      <a href="#russian">
-  <picture>
-    <source srcset="assets/lru.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/lru.svg" width="35" alt="My Icon">
-  </picture>
-</a>
-       <a href="https://kovtun-cio.ru" target="_blank">
-  <picture>
-    <source srcset="assets/vq.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/vq.svg" width="35" alt="My Icon">
-  </picture>
-<!-- </a> -->
-       <a href="https://t.me/Kovtun_Kirill" target="_blank">
-  <picture>
-    <source srcset="assets/zt.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/zt.svg" width="35" alt="My Icon">
-  </picture>
-</a>
-    <a href="mailto:kirikov_08@mail.ru">
-  <picture>
-    <source srcset="assets/zm.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/zm.svg" width="35" alt="My Icon">
-  </picture>
-</a>
-</p> 
-<p align="center" width="100%">
-  <picture>
-    <img src="assets/123.gif" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-<a name="russian"></a>
-<details>
-  <summary>
-    <picture>
-      <source srcset="assets/Ru_b.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/ru_w2.svg" alt="Навыки и технологии" width="100" style="vertical-align:middle;">
-    </picture>
-  </summary>
+<a href="https://nunuga.github.io/Nunuga/"><img src="assets/profile/cover.png" width="100%" alt="Nunuga — Кирилл Ковтун. Руководитель проектов и IT-аналитики."></a>
 
+**Информационные системы для госсектора**<br>
+Аналитика и автоматизация отчётности
 
+[Полный профиль](https://nunuga.github.io/Nunuga/) · [Telegram](https://t.me/Kovtun_Kirill) · [Email](mailto:kirikov_08@mail.ru)
 
-
-<div align="center">
-
-
-<h2>Здравствуйте, я Ковтун Кирилл!</h2>
-<b>Руководитель проектов | Руководитель управления IT-аналитики</b>
-<br>г. Москва
-</div>
-<br><br>
-  
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/navinu_t.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/naw_w.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-4f46e5?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-4f46e5?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-4f46e5?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-4f46e5?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-4f46e5?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4f46e5?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-4f46e5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BPMN-4f46e5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jira-4f46e5?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-4f46e5?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-4f46e5?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4f46e5?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-4f46e5?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-4f46e5?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-4f46e5?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After_Effects-4f46e5?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-4f46e5?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-4f46e5?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-4f46e5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cinema_4D-4f46e5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blender-4f46e5?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-4f46e5?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-4f46e5?style=for-the-badge&logo=pycharm&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android_Studio-4f46e5?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
-
-<br>
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/linfo_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/linfo_w.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-<p align="left">
-  <img src="assets/alpak_l.svg" alt="О себе в двух словах" width="50%" height="200" align="left" style="margin-right: 36px; border-radius:16px;">
-  <br>
-  <b>- 7 лет</b> опыта в digital для госсектора<br>
-  <b>- Эксперт:</b> управление командами, аналитика, автоматизация<br>
-  - Люблю строить и внедрять новые решения<br>
-  <i>- Сделаю больше с меньшими ресурсами!</i>
-</p>
-
-
-<br><br>
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/proj_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/proj_w.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-<table align="center">
-  <tr>
-    <th align="center">Роль</th>
-    <th align="center">Проекты</th>
-    <th align="center">Достижения</th>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20УПРАВЛЕНИЯ%20IT%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=9333ea&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
-    </td>
-    <td><b>АИС для межблокового взаимодействия ФОИВ РФ</b></td>
-    <td>
-      Руководство командой<br>
-      Проектирование и запуск<br>
-      Backend/frontend, UX/UI<br>
-      <a href="https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html">
-        <img src="https://img.shields.io/badge/Патент_RU2024663474-9333ea?style=for-the-badge" alt="Патент RU2024663474"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20УПРАВЛЕНИЯ%20IT%20АНАЛИТИКИ-4f46e5?style=for-the-badge&labelColor=9333ea&logo=apachekafka&logoColor=white" alt="Начальник отдела аналитики"/>
-    </td>
-    </td>
-    <td><b>АИС для Минстроя России (8+ модулей)</b></td>
-    <td>
-      5000+ пользователей<br>
-      Интеграция<br>
-      Мобильное приложение<br>
-      <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
-    <img src="https://img.shields.io/badge/Патент_RU2024665653-9333ea?style=for-the-badge" alt="Патент RU2024665653"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/РУКОВОДИТЕЛЬ%20ПРОЕКТА-4f46e5?style=for-the-badge&labelColor=9333ea&logo=chartdotjs&logoColor=white" alt="Руководитель проекта"/>
-    </td>
-    <td><b>Аналитические дашборды, Telegram-боты</b></td>
-    <td>
-      Power BI<br>
-      Google Script<br>
-      Telegram API<br>
-      Автоматизация отчётности
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/ЗАМ.%20НАЧАЛЬНИКА%20ОТДЕЛА-4f46e5?style=for-the-badge&labelColor=9333ea&logo=googlechrome&logoColor=white" alt="Зам. начальника отдела"/>
-    </td>
-    <td><b>Цифровая инфраструктура для МинЖКХ МО</b></td>
-    <td>
-      Google Apps Script<br>
-      Внедрение, аналитика<br>
-      Поддержка пользователей
-    </td>
-  </tr>
-</table>
-
-<br>
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/cubok_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/cubok_w.svg" alt=" О себе в двух словах" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-- Благодарственные письма **Минстроя РФ**
-- Благодарственные письма **МинЖКХ Московской области**
-
-<br>
-  
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/lk_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/lk_w.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-**- Организатор** • **Лидер** • _Аналитик_  
-- Быстро адаптируюсь
-• Стрессоустойчив
-• Планирую наперёд  
-- Ориентир на результат
-
-<br><br>
-  
-
-  
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/princ_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/princ_w.svg" alt="Навыки и технологии" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p> 
-
-  - Прозрачность и доверие — залог сильной команды  
-  - Фокус на результат и развитие людей  
-  - Люблю создавать и внедрять новые решения
-
-<br><br>
-<p align="end">
-  <a href="#top">
-    <picture>
-      <source srcset="assets/Vver_t.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/Vver_t.svg" width="30" alt="Наверх">
-    </picture>
-  </a>
-</p>
-</details>
-
----
-
-<a name="english"></a>
+## Навыки и технологии
 
 <details>
-  <summary>
-    <picture>
-      <source srcset="assets/En_b1.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/en_w.svg" alt="Навыки и технологии" width="100" style="vertical-align:middle;">
-    </picture>
-  </summary>
+<summary><b>Разработка</b></summary>
 
-
-<div align="center">
-
-
-<h2>Hello, I'm Kirill Kovtun!</h2>
-<b>Project Manager | Head of IT Analytics Department</b>
-<br>Moscow, Russia
-</div>
-<br>
-
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_st_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_st_w.svg" alt="Skills & Technologies" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-9333ea?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-9333ea?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-9333ea?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-9333ea?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-9333ea?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-9333ea?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-9333ea?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BPMN-9333ea?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jira-9333ea?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-9333ea?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-9333ea?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-9333ea?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-9333ea?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-9333ea?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-9333ea?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After_Effects-9333ea?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-9333ea?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-9333ea?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-9333ea?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cinema_4D-9333ea?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blender-9333ea?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-9333ea?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-9333ea?style=for-the-badge&logo=pycharm&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android_Studio-9333ea?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<p>
+<img src="assets/profile/badges/python.svg" height="40" alt="Python">
+<img src="assets/profile/badges/django.svg" height="40" alt="Django">
+<img src="assets/profile/badges/typescript.svg" height="40" alt="TypeScript">
+<img src="assets/profile/badges/javascript.svg" height="40" alt="JavaScript">
+<img src="assets/profile/badges/flutter.svg" height="40" alt="Flutter">
+<img src="assets/profile/badges/postgresql.svg" height="40" alt="PostgreSQL">
+<img src="assets/profile/badges/rest-api.svg" height="40" alt="REST API">
+<img src="assets/profile/badges/vs-code.svg" height="40" alt="VS Code">
+<img src="assets/profile/badges/pycharm.svg" height="40" alt="PyCharm">
+<img src="assets/profile/badges/android-studio.svg" height="40" alt="Android Studio">
 </p>
 
-<br>
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_ab_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_ab_w.svg" alt="About Me" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-<p align="left">
-  <img src="assets/alpak_l.svg" alt="About Me" width="50%" height="200" align="left" style="margin-right: 36px; border-radius:16px;">
-  <br>
-  <b>- 7 years</b>  of experience in digital for the government sector<br>
-  <b>- Expert:</b> team management, analytics, automation<br>
-  <b>-  I am passionate about creating and implementing new solutions<br>
-  <i>- Achieve more with fewer resources!</i>
-</p>
-
-
-<br><br>
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_proj_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_proj_w.svg" alt="Projects" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-<table align="center">
-  <tr>
-    <th align="center">Role</th>
-    <th align="center">Project</th>
-    <th align="center">Achievements</th>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/HEAD%20OF%20IT%20ANALYTICS%20DEPT-9333ea?style=for-the-badge&labelColor=4f46e5&logo=apachekafka&logoColor=white" alt="Head of IT Analytics"/>
-    </td>
-    <td><b>Interdepartmental system for federal ministries of the Russian Federation</b></td>
-    <td>
-      Team management<br>
-      Design and launch<br>
-      Backend/frontend, UX/UI<br>
-      <a href="https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html">
-        <img src="https://img.shields.io/badge/Patent_RU2024663474-4f46e5?style=for-the-badge" alt="Patent RU2024663474"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/HEAD%20OF%20IT%20ANALYTICS%20DEPT-9333ea?style=for-the-badge&labelColor=4f46e5&logo=apachekafka&logoColor=white" alt="Head of IT Analytics"/>
-    </td>
-    <td><b>System for the Ministry of Construction and Housing and Communal Services of the Russian Federation (8+ modules)
-</b></td>
-    <td>
-      5000+ users<br>
-      Integration<br>
-      Mobile application<br>
-      <a href="https://patents.sudrf.ru/patents/patent/ru/2024665653" target="_blank">
-<!--         <img src="https://img.shields.io/badge/Patent_RU2024665653-9333ea?style=for-the-badge" alt="Patent RU2024665653"/> -->
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/PROJECT%20MANAGER-9333ea?style=for-the-badge&labelColor=4f46e5&logo=chartdotjs&logoColor=white" alt="Project Manager"/>
-    </td>
-    <td><b>Analytics Dashboards, Telegram Bots</b></td>
-    <td>
-      Power BI<br>
-      Google Script<br>
-      Telegram API<br>
-      Reporting automation
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/DEPUTY%20HEAD%20OF%20DEPT-9333ea?style=for-the-badge&labelColor=4f46e5&logo=googlechrome&logoColor=white" alt="Deputy Head"/>
-    </td>
-    <td><b>Digital infrastructure of the Ministry of Housing and Communal Services of the Moscow Region</b></td>
-    <td>
-      Google Apps Script<br>
-      Implementation, analytics<br>
-      User support
-    </td>
-  </tr>
-</table>
-
-<br>
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_cubok_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_cubok_w.svg" alt="Awards" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-- Letters of gratitude from the Ministry of Construction and Housing and Communal Services of the Russian Federation
-- Letters of gratitude from the Ministry of Housing and Communal Services of the Moscow Region
-
-<br>
-  
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_ss_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_ss_w.svg" alt="Personal Qualities" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-**- Organizer** • **Leader** • _Analyst_  
-- Fast adaptation  
-- Stress resistant 
-- Strategic planning  
-- Result-oriented
-
-<br>
-  
-
-  
-<p align="center" width="100%">
-  <picture>
-    <source srcset="assets/en_princ_b.svg" media="(prefers-color-scheme: dark)">
-    <img src="assets/en_princ_w.svg" alt="Principles" style="width:100%; max-width:850px; min-width:220px;">
-  </picture>
-</p>
-
-  - Transparency and trust are the foundation of a strong team  
-  - Focus on results and team growth  
-  - I love creating and implementing new solutions
-
-<br><br>
-<p align="end">
-  <a href="#top">
-    <picture>
-      <source srcset="assets/vvEn_b.svg" media="(prefers-color-scheme: dark)">
-      <img src="assets/vvEn_b.svg" width="30" alt="Up">
-    </picture>
-  </a>
-</p>
 </details>
+
+<details>
+<summary><b>Аналитика и процессы</b></summary>
+
+<p>
+<img src="assets/profile/badges/bpmn.svg" height="40" alt="BPMN">
+<img src="assets/profile/badges/power-bi.svg" height="40" alt="Power BI">
+<img src="assets/profile/badges/excel.svg" height="40" alt="Excel">
+<img src="assets/profile/badges/apps-script.svg" height="40" alt="Apps Script">
+<img src="assets/profile/badges/jira.svg" height="40" alt="Jira">
+<img src="assets/profile/badges/confluence.svg" height="40" alt="Confluence">
+<img src="assets/profile/badges/trello.svg" height="40" alt="Trello">
+<img src="assets/profile/badges/slack.svg" height="40" alt="Slack">
+<img src="assets/profile/badges/notion.svg" height="40" alt="Notion">
+</p>
+
+</details>
+
+<details>
+<summary><b>Дизайн и визуализация</b></summary>
+
+<p>
+<img src="assets/profile/badges/blender.svg" height="40" alt="Blender">
+<img src="assets/profile/badges/cinema-4d.svg" height="40" alt="Cinema 4D">
+<img src="assets/profile/badges/after-effects.svg" height="40" alt="After Effects">
+<img src="assets/profile/badges/photoshop.svg" height="40" alt="Photoshop">
+<img src="assets/profile/badges/illustrator.svg" height="40" alt="Illustrator">
+<img src="assets/profile/badges/coreldraw.svg" height="40" alt="CorelDRAW">
+</p>
+
+</details>
+
+## Проекты и опыт
+
+<details>
+<summary><b>АИС для федеральных ведомств</b></summary>
+
+<img src="assets/profile/project-01.png" width="240" align="right" alt="Межблоковое взаимодействие ФОИВ РФ">
+
+**Руководитель управления IT-аналитики**<br>
+Госсектор / Информационные системы
+
+Руководил командой при проектировании и запуске АИС для федеральных органов исполнительной власти. В состав работ входили backend, frontend и UX/UI.
+
+- **Руководство командой.** Руководил командой при проектировании и запуске системы.
+- **Проектирование и UX/UI.** Работал над проектированием системы и пользовательских интерфейсов.
+- **Разработка и запуск АИС.** Работа над backend и frontend, участие в запуске АИС.
+
+[Регистрация программы для ЭВМ № 2024663474](https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024663474&TypeFile=html)
+
+[Подробнее о проекте](https://nunuga.github.io/Nunuga/#evolution-case-01)
+
+<br clear="all">
+</details>
+
+<details>
+<summary><b>Информационная система для Минстроя России</b></summary>
+
+<img src="assets/profile/project-02.png" width="240" align="right" alt="Модули, интеграции и мобильное приложение">
+
+**Руководитель управления IT-аналитики**<br>
+Цифровые сервисы / Интеграции
+
+Развивал АИС для Минстроя России: модули системы, интеграции и мобильное приложение.
+
+- **Развитие модулей системы.** Вёл IT-аналитику при развитии функциональных модулей системы.
+- **Интеграционная часть АИС.** Работал над интеграционной частью АИС для Минстроя России.
+- **Мобильное приложение.** Участвовал в работе над мобильным приложением АИС.
+
+[Регистрация программы для ЭВМ № 2024665653](https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2024665653&TypeFile=html)
+
+[Подробнее о проекте](https://nunuga.github.io/Nunuga/#evolution-case-02)
+
+<br clear="all">
+</details>
+
+<details>
+<summary><b>Дашборды, Telegram-боты и отчётность</b></summary>
+
+<img src="assets/profile/project-03.png" width="240" align="right" alt="Power BI, Google Apps Script и Telegram API">
+
+**Руководитель проектов**<br>
+Данные / Автоматизация
+
+Руководил проектами дашбордов и Telegram-ботов, занимался автоматизацией отчётности.
+
+- **Аналитические дашборды.** Руководил проектами аналитических дашбордов на Power BI.
+- **Автоматизация отчётности.** Автоматизация отчётности с помощью Google Apps Script.
+- **Telegram-боты.** Руководил проектами Telegram-ботов на базе Telegram API.
+
+Ранее · МинЖКХ Московской области. Внедрение и поддержка цифровой инфраструктуры, аналитика и работа с пользователями.
+
+[Подробнее о проекте](https://nunuga.github.io/Nunuga/#evolution-case-03)
+
+<br clear="all">
+</details>
+
+<details>
+<summary><b>Платформа-конструктор для работы с данными</b></summary>
+
+<img src="assets/profile/project-04.png" width="240" align="right" alt="Электронные формы, данные и процессы согласования">
+
+**Соавтор программы**<br>
+Собственный продукт / I8U8
+
+Платформа для настройки форм, хранения данных и согласования записей по заданным маршрутам.
+
+- **Настройка форм и схем данных.** Создание электронных форм, настройка схем данных и построение произвольных иерархий.
+- **Сбор, проверка и хранение.** Сбор, проверка и хранение записей. Настройка уровней ввода, учётных записей, ролей и прав доступа.
+- **Назначение и согласование.** Маршруты назначения и согласования, статусы записей. Доступны интерфейсы пользователя и администратора.
+
+Включена в реестр российского ПО Минцифры России.
+
+[Регистрация программы для ЭВМ № 2026668717](https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2026668717&TypeFile=html)
+
+Правообладатель — ООО «И8У8».
+
+[Подробнее о проекте](https://nunuga.github.io/Nunuga/#evolution-case-04)
+
+<br clear="all">
+</details>
+
+<details>
+<summary><b>КАДР — система работы с резюме</b></summary>
+
+<img src="assets/profile/project-05.png" width="240" align="right" alt="Обработка документов, поиск кандидатов и Android-приложение">
+
+**Мой проект**<br>
+Собственный проект / HR-tech
+
+Загрузка документов, извлечение данных, ручная проверка и поиск по единому реестру кандидатов.
+
+- **Извлечение и проверка данных.** Загрузка PDF, DOCX, DOC и RTF. Локальное извлечение текста, OCR сканов и разбор резюме с помощью ИИ. Карточку можно проверить и исправить рядом с оригиналом.
+- **Единый реестр кандидатов.** Поиск по сферам и специализациям, актуальные и архивные резюме, история поступлений и версии документов. Выгрузки в Excel, PDF и Word.
+- **Документы с телефона.** Передача файлов через системное меню «Поделиться», фоновая очередь загрузки и встроенный кабинет для просмотра и редактирования. Отправка возобновляется после восстановления сети.
+
+**Стек:** Node.js, Express, PostgreSQL, Java / Android.<br>
+[кадр.su](https://кадр.su)
+
+[Подробнее о проекте](https://nunuga.github.io/Nunuga/#evolution-case-05)
+
+<br clear="all">
+</details>
+
+## I8U8
+
+Моя компания. Разработка информационных систем, автоматизация и решения с искусственным интеллектом.
